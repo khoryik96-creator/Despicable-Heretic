@@ -4,7 +4,7 @@
 
 **https://khoryik96-creator.github.io/Despicable-Heretic/**
 
-A modular React + TypeScript + Vite wiki for the light novel **The Despicable Heretic**.
+A modular TypeScript light-novel wiki for **The Despicable Heretic**.
 
 ## Current canon
 - **Male lead:** Ryn — *The Despicable Heretic*
@@ -14,12 +14,25 @@ A modular React + TypeScript + Vite wiki for the light novel **The Despicable He
 - **Opening saga:** 5 seasons × 10 chapters = 50 planned chapters.
 
 ## Wiki sections
-Overview · Chapters · Characters · Villains · Factions · Techniques · Timeline · Lore · Global search
+Overview · Chapters · Characters · Villains · Factions · Rankings · Feats · Timeline · Lore · Global search
 
-## GitHub Pages
-GitHub Pages deployment is enabled through GitHub Actions. Every push to `main` automatically rebuilds and republishes the wiki.
+## GitHub Pages — no CI required
+The reading site is now a static `index.html` that reads the canon directly from the typed data files under `src/features/`. It does **not** need npm, Vite, or a GitHub Actions build to publish.
 
-## Run locally
+Set GitHub Pages to:
+
+**Settings → Pages → Build and deployment → Source: Deploy from a branch**
+
+Then choose:
+
+**Branch: `main` · Folder: `/(root)`**
+
+The old failing Pages Actions workflow has been removed.
+
+## TypeScript source
+The feature-based source remains under `src/features/`, with canon data separated from presentation code so the project can continue to grow modularly.
+
+## Local development
 ```bash
 npm install
 npm run dev
@@ -30,5 +43,3 @@ npm run dev
 npm run lint
 npm run build
 ```
-
-The project uses feature-based modules under `src/features/`, with typed data separated from presentation components so the canon can grow without turning `App.tsx` into a monolith.
