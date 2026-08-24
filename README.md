@@ -1,5 +1,9 @@
 # The Despicable Heretic Wiki
 
+## 📖 Read the live wiki
+
+**https://khoryik96-creator.github.io/Despicable-Heretic/**
+
 A modular React + TypeScript + Vite wiki for the light novel **The Despicable Heretic**.
 
 ## Current canon
@@ -11,6 +15,15 @@ A modular React + TypeScript + Vite wiki for the light novel **The Despicable He
 
 ## Wiki sections
 Overview · Chapters · Characters · Villains · Factions · Techniques · Timeline · Lore · Global search
+
+## GitHub Pages
+This repository is configured for GitHub Pages using GitHub Actions.
+
+In GitHub, open:
+
+**Settings → Pages → Build and deployment → Source → GitHub Actions**
+
+Once Pages is enabled, pushes to `main` will publish the site automatically.
 
 ## Run locally
 ```bash
