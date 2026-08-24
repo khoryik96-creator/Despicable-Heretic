@@ -17,13 +17,7 @@ A modular React + TypeScript + Vite wiki for the light novel **The Despicable He
 Overview · Chapters · Characters · Villains · Factions · Techniques · Timeline · Lore · Global search
 
 ## GitHub Pages
-This repository is configured for GitHub Pages using GitHub Actions.
-
-In GitHub, open:
-
-**Settings → Pages → Build and deployment → Source → GitHub Actions**
-
-Once Pages is enabled, pushes to `main` will publish the site automatically.
+GitHub Pages deployment is enabled through GitHub Actions. Every push to `main` automatically rebuilds and republishes the wiki.
 
 ## Run locally
 ```bash
