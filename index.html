@@ -29,5 +29,5 @@ load("src/features/villains/data.ts","villains"),
 load("src/features/techniques/data.ts","techniques"),
 load("src/features/timeline/data.ts","timeline"),
 load("src/features/lore/data.ts","lore")
-]).then(([chapters,characters,factions,villains,techniques,timeline,lore])=>{D={chapters,characters,factions,villains,techniques,timeline,lore};filters();chapters();cards();$("q").addEventListener("input",x=>search(x.target.value));addEventListener("keydown",x=>{if((x.ctrlKey||x.metaKey)&&x.key.toLowerCase()==="k"){x.preventDefault();$("q").focus()}})}).catch(err=>{$("overview").innerHTML='<div class="empty">Wiki data failed to load.<br><small>'+e(err.message)+'</small></div>'});
+]).then(([chapterData,characters,factions,villains,techniques,timeline,lore])=>{D={chapters:chapterData,characters,factions,villains,techniques,timeline,lore};filters();chapters();cards();$("q").addEventListener("input",x=>search(x.target.value));addEventListener("keydown",x=>{if((x.ctrlKey||x.metaKey)&&x.key.toLowerCase()==="k"){x.preventDefault();$("q").focus()}})}).catch(err=>{$("overview").innerHTML='<div class="empty">Wiki data failed to load.<br><small>'+e(err.message)+'</small></div>'});
 </script></body></html>
