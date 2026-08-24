@@ -17,17 +17,13 @@ A modular TypeScript light-novel wiki for **The Despicable Heretic**.
 Overview · Chapters · Characters · Villains · Factions · Rankings · Feats · Timeline · Lore · Global search
 
 ## GitHub Pages — no CI required
-The reading site is now a static `index.html` that reads the canon directly from the typed data files under `src/features/`. It does **not** need npm, Vite, or a GitHub Actions build to publish.
+The reading site is a static root-level `index.html` that reads the canon directly from the typed data files under `src/features/`. It does **not** need npm, Vite, or a custom GitHub Actions workflow to publish.
 
-Set GitHub Pages to:
-
-**Settings → Pages → Build and deployment → Source: Deploy from a branch**
-
-Then choose:
+Publishing source:
 
 **Branch: `main` · Folder: `/(root)`**
 
-The old failing Pages Actions workflow has been removed.
+The repository also includes `.nojekyll` so GitHub Pages serves the files directly.
 
 ## TypeScript source
 The feature-based source remains under `src/features/`, with canon data separated from presentation code so the project can continue to grow modularly.
