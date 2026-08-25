@@ -7,7 +7,7 @@ The list on her desk contained emperors, sect masters, unranked monsters, and tw
 
 [[Ryn]] “Why?”
 
-[[Lucy]] “Because Han Seojin once buried a fortress after Mo Qingzhao called sand ‘aggressive dirt.’”
+[[Lucy]] “Because Sael Vardon once buried a fortress after Orun Bale called sand ‘aggressive dirt.’”
 
 Ryn considered this.
 
@@ -16,7 +16,7 @@ Ryn considered this.
 Lucy put her forehead on the table.
 
 Marriage, she decided, was easy. Seating charts were war.` ,
-2:String.raw`Mina Soryeon arrived under clear skies.
+2:String.raw`Luma Vey arrived under clear skies.
 
 Ten breaths later, rain covered Black Mountain.
 
@@ -32,20 +32,20 @@ That was Rank Twenty.
 
 The weakest person in the Top Twenty had just changed the weather over an entire mountain because she disliked dry air.
 
-Ryn handed Mina a towel.
+Ryn handed Luma a towel.
 
 [[Ryn]] “Do not electrocute the chickens.”
 
-Mina looked offended.
+Luma looked offended.
 
 “I have standards.”
 
 Bracken immediately bit her shoe.` ,
-3:String.raw`Han Seojin wanted the western table.
+3:String.raw`Sael Vardon wanted the western table.
 
-Mo Qingzhao had already claimed it.
+Orun Bale had already claimed it.
 
-The argument lasted fourteen seconds before sand began circling Han’s boots and the teacups started humming around Mo.
+The argument lasted fourteen seconds before sand began circling Sael’s boots and the teacups started humming around Orun.
 
 Lucy stepped between them.
 
@@ -64,11 +64,11 @@ Ryn, watching from the porch, nodded approvingly.
 [[Ryn]] “I have never threatened anyone with children.”
 
 [[Lucy]] “Your methods are less civilized.”` ,
-4:String.raw`Mei Xueyan arrived carrying a red lacquer chest.
+4:String.raw`Veyra Nox arrived carrying a red lacquer chest.
 
 Every physician in the imperial delegation backed away.
 
-The Crimson Venom Sovereign smiled.
+The Pale Serpent Sovereign smiled.
 
 “It is an antidote collection.”
 
@@ -84,7 +84,7 @@ Lucy stared.
 
 [[Lucy]] “Are the solutions also poison?”
 
-Mei Xueyan’s smile became warmer.
+Veyra’s smile became warmer.
 
 “Yes.”
 
@@ -92,10 +92,10 @@ Ryn looked inside the box, selected one vial, sniffed it, and placed it back.
 
 [[Ryn]] “Too sweet.”
 
-For the first time that morning, Mei Xueyan looked genuinely surprised.` ,
+For the first time that morning, Veyra looked genuinely surprised.` ,
 5:String.raw`The Five Sovereigns shared one table.
 
-Seo Taewon sat like a bored hawk. Mei Xueyan looked delighted by everyone’s discomfort. Lei Zhen vibrated faintly whenever he became impatient. Liang Yue poured tea with perfect serenity. Shen Rui complained that the room was cold.
+Seo Taewon sat like a bored hawk. Veyra Nox looked delighted by everyone’s discomfort. Dae Kiryun vibrated faintly whenever he became impatient. Maren Sol poured tea with perfect serenity. Kassian Ro complained that the room was cold.
 
 The room was not cold.
 
@@ -105,7 +105,7 @@ Lucy watched them and understood why the world had built legends around each one
 
 They did not feel similar.
 
-Taewon compressed the air without moving. Xueyan made physicians nervous by breathing. Lei Zhen’s pulse sounded like distant thunder. Liang Yue’s cup never spilled even when the table shook. Shen Rui’s tea never cooled.
+Taewon compressed the air without moving. Veyra made physicians nervous by breathing. Kiryun’s pulse sounded like distant thunder. Maren’s cup never spilled even when the table shook. Kassian’s tea never cooled.
 
 Five apex monsters.
 
@@ -116,19 +116,19 @@ All five looked at him.
 The atmosphere changed again.` ,
 6:String.raw`Lucy trained the morning after her dress fitting.
 
-Arin Vale corrected her footwork. Gao Ren corrected her posture. Qiao Lian corrected her breathing.
+Lysandra Keir corrected her footwork. Boran Dusk corrected her posture. Seline Arq corrected her breathing.
 
 By noon Lucy had been corrected enough to become violent.
 
 [[Lucy]] “Again.”
 
-Arin smiled and attacked.
+Lysandra smiled and attacked.
 
 Lucy lost.
 
 Then she lost differently.
 
-Then, on the seventh exchange, she forced Arin to move her back foot.
+Then, on the seventh exchange, she forced Lysandra to move her back foot.
 
 Only once.
 
@@ -143,7 +143,7 @@ Ryn watched from the fence.
 [[Ryn]] “Your right shoulder is better.”
 
 Lucy tried very hard not to smile.` ,
-7:String.raw`Nara Sun’s forest died in a circle.
+7:String.raw`Tavia Moss’s forest died in a circle.
 
 Not burned. Not cut.
 
@@ -153,9 +153,9 @@ Rank Seventeen staggered for the first time in years.
 
 A masked cultivator stepped through the grey leaves.
 
-“Verdant Calamity. Confirmed weakness: dependency on living terrain.”
+“Root Calamity. Confirmed weakness: dependency on living terrain.”
 
-Nara’s eyes hardened.
+Tavia’s eyes hardened.
 
 She tore a branch from a dead tree and drove it through the attacker’s shoulder with pure physical force.
 
