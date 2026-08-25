@@ -11,14 +11,14 @@ A modular TypeScript light-novel wiki and expandable reader for **The Despicable
 - **Female lead:** Princess Lucy
 - **Current relationship:** married by Season 20.
 - **Current manuscript:** **25 seasons × 10 chapters = 250 full prose chapters**.
-- **Heavenly Register:** roughly 100 publicly ranked monsters; the Top 20 now have named identities, affinities, specialties, and signature arts.
+- **Heavenly Register:** roughly 100 publicly ranked monsters; the Top 20 have unique identities, affinities, specialties, and signature arts exclusive to this novel.
 - **Ryn:** remains unrankable and qualitatively above the formal Register rather than becoming ordinary Rank #1.
 
 ## Novel reader
 - Every chapter is expandable full prose.
 - **Ryn** dialogue is sky-blue/teal.
 - **Lucy** dialogue is rose-pink.
-- Ryn’s named art **Still Sky** is highlighted in gold.
+- Named martial arts are highlighted in gold.
 - Persistent chapter bookmarks and **Continue Reading** use browser local storage.
 - Bookmarks/reading progress remain local to that browser/device.
 - Season 1 uses individual manuscript modules.
@@ -26,35 +26,35 @@ A modular TypeScript light-novel wiki and expandable reader for **The Despicable
 - Metadata is split across `data.ts`, `data-06-15.ts`, and `data-16-25.ts`.
 
 ## Heavenly Register Top 20
-The modern Register still uses rank, but now also records matchup information, elemental affinity, range, resilience, adaptability, and role.
+The modern Register still uses rank, but also records matchup information, elemental affinity, range, resilience, adaptability, and role. This roster and its martial vocabulary are **The Despicable Heretic canon only**.
 
 ### Five Sovereigns — #1 to #5
-1. **Seo Taewon — White Falcon Sovereign** — wind / pressure — *White Sky Dominion, Falcon Without Shadow, Ninefold Pressure Sea*.
-2. **Mei Xueyan — Crimson Venom Sovereign** — poison / blood — *Ten-Thousand Scarlet Veins, Poison That Remembers, Red Lotus Funeral*.
-3. **Lei Zhen — Thunder Burial Sovereign** — lightning — *Heaven-Splitting Thunderstep, Nine Graves of Lightning, Storm King Descends*.
-4. **Liang Yue — Moon-Tide Sovereign** — water / ice — *Silver Tide Reversal, Moon Beneath Frozen Water, Endless Winter Sea*.
-5. **Shen Rui — Vermilion Furnace Sovereign** — fire — *Vermilion Furnace Heart, Sunfall Palm, Ashes Before Dawn*.
+1. **Seo Taewon — White Falcon Sovereign** — wind / pressure — *Sky Has No Walls, Falcon Crossing Ten Miles, Pressure Burial*.
+2. **Veyra Nox — Viridian Serpent Sovereign** — poison / blood — *Seven Organ Silence, Venom Scripture: Living Antidote, Black Pulse Contagion*.
+3. **Dae Kiryun — Stormbreak Sovereign** — lightning / magnetism — *Thunder Before Sound, Iron-Sky Discharge, Hundred Lightning Steps*.
+4. **Maren Sol — Abyssal Tide Sovereign** — water / pressure / cold — *Ocean Without Shore, Crushing Depth, Countercurrent Lock*.
+5. **Kassian Ro — Ash-Furnace Sovereign** — fire / combustion — *Furnace Body, Ashen Sun, Burning Meridian Catastrophe*.
 
 ### Five Heavenly Pillars — #6 to #10
-6. **Han Seojin — Desert Crown Marquis** — sand / earth.
-7. **Mo Qingzhao — Golden Bell Marquis** — sound / vibration.
-8. **Arin Vale — Beautiful Sword Saint** — wind / sword qi.
-9. **Jin Seoryu — Black Iron Marquis** — metal.
-10. **Yun Haejin — Pale Widow Marquis** — poison / silk.
+6. **Sael Vardon — Dune Regent** — sand / earth — *Dune Kingdom, Burial Under Nine Sands*.
+7. **Orun Bale — Resonance Warden** — sound / vibration — *Bell Without Metal, Heartbeat Fracture*.
+8. **Lysandra Keir — Dawn Edge** — wind / sword qi — *Horizon in One Draw, Seven Returning Cuts*.
+9. **Toren Vahl — Iron Orbit** — metal / magnetism — *Iron Orbit, Weapon Rain Reversal*.
+10. **Nyra Sen — Silent Loom** — venom / silk — *Loom of Needles, Venom Through Silk*.
 
 ### Ten Great Lords — #11 to #20
-11. **Gao Ren — Mountain-Eating Lord** — earth / body cultivation.
-12. **Sorin Kade — Glass Mist Lord** — mist / illusion.
-13. **Bai Luo — Grave Thread Lord** — thread / remote control.
-14. **Tae Mun — Blue Fang Lord** — water / beast-form qi.
-15. **Qiao Lian — Cinder Orchid Lord** — fire / healing.
-16. **Ilya Voss — Shadow Reed Lord** — concealment / shadow.
-17. **Nara Sun — Verdant Calamity** — wood / plant qi.
-18. **Kwon Mirae — Falling Star Lord** — heavy qi / pressure.
-19. **Chen Ruo — Laughing Blade Lord** — pure sword qi / broken rhythm.
-20. **Mina Soryeon — Rain Lantern Lord** — water / lightning.
+11. **Boran Dusk — Stone Maw Lord** — earth / body — *Stone Maw Body, Mountain Breaker Clinch*.
+12. **Elian Mor — Mirage Glass Lord** — mist / illusion — *Mirrored Breath Maze, Empty Street of Mist*.
+13. **Veska Ren — Puppet Wire Lord** — thread / remote control — *Ten Funeral Wires, Puppet Line Severance*.
+14. **Kaio Draven — River Fang Lord** — water / beast-form qi — *River Fang Pursuit, Flood-Beast Mantle*.
+15. **Seline Arq — Ember Mercy Lord** — fire / healing — *Ember Sutra: Gentle Burn, Cauterizing Mercy*.
+16. **Corven Ash — Hollow Reed Lord** — shadow / concealment — *Blind-Corner Passage, Breathless Shadow*.
+17. **Tavia Moss — Thorn Regent** — wood / plant qi — *Root Dominion, Green Hunger*.
+18. **Rook Arden — World-Weight Lord** — heavy qi / pressure — *World-Weight Field, Meteor Step*.
+19. **Joren Quill — Broken Tempo Lord** — pure sword qi — *Broken Measure, Seventh Beat Severing*.
+20. **Luma Vey — Storm Lantern Lord** — water / lightning — *Conductive Rainfield, Lantern Storm*.
 
-Full distinctions and signature arts are stored in `src/features/rankings/top20.ts` and displayed directly in the live Rankings tab.
+Full distinctions and signature arts are stored in `src/features/rankings/top20.ts` and displayed directly in the live Top 20 tab.
 
 ## Story progression
 ### Seasons 1–5 — Opening Saga
