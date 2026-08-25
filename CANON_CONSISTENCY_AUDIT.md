@@ -10,11 +10,43 @@ This file is the continuity guardrail for future writing. The manuscript prose i
 - Princess Lucy remains a co-protagonist with political, investigative, strategic, martial, emotional, and romantic agency.
 - Black Mountain is a home and free township, not Ryn’s kingdom.
 - The Heavenly Register remains prestigious. Ryn exceeding it does not make ranked fighters fodder.
-- Seo Taewon remains alive and **Rank #1** throughout all 25 published seasons.
+- Seo Taewon remains alive and **Rank #1** throughout all 25 published seasons and the planned S26–35 saga.
 - A difficult matchup or one defeat does not automatically overwrite overall rank.
 - Important fighters should be introduced as people before the story depends on them as matchup pieces.
 - Elements are qi/cultivation expressions, not Western magic.
-- Ryn’s named arts remain rare; **Still Sky** stays exceptional.
+- Ryn’s formal arts remain rare. Casual feats are not automatically promoted into named skills merely because they are impressive.
+
+## Ryn formal skill system
+
+Ryn has exactly **10 currently defined formal skills**. Their only valid ranks are:
+- **◆ Named Skill**
+- **✦ Transcended**
+- **✧ Supreme**
+- **★ Ultimate**
+
+Current arsenal:
+
+1. Returning Breath of the Mountain — Named Skill — Healing
+2. Empty-Hand Measure — Named Skill — Counter
+3. Step Between Footfalls — Named Skill — Movement
+4. Still Sky — Transcended — Control — **revealed in S13**
+5. Horizon Without Distance — Transcended — Movement
+6. Ten Thousand Roads Return — Transcended — Counter
+7. Unbroken Vessel — Transcended — Passive
+8. No Heaven Above Me — Supreme — **sealed**
+9. Unwritten Law — Supreme — **sealed**
+10. The Last Quiet Beneath Heaven — Ultimate — **hard locked**
+
+Reveal rules:
+- Named Skills and Transcended Skills may be revealed naturally when the novel earns them.
+- At most **ONE Supreme art** may be revealed before explicit user approval for another.
+- The current preferred single Supreme reveal for the planned intercontinental saga is **No Heaven Above Me**, but this remains planning canon until written.
+- **Unwritten Law remains sealed** unless the reveal plan changes explicitly.
+- **The Last Quiet Beneath Heaven must remain unreleased and unused in prose until explicit user approval.**
+- The Ultimate’s effect, activation condition, scale, cost, and visual manifestation remain unreleased.
+- The static reader must show a tier symbol/badge beside the name whenever a formal Ryn skill is mentioned in prose.
+- The Characters tab lists all ten skills under Ryn’s card, but sealed Supreme/Ultimate capability details stay hidden from the public-facing card.
+- Ryn’s pebble flick, bamboo-ladle counter, teacup-lid block, and formation-erasing ground tap remain **casual feats**, not formal entries in the ten-skill arsenal.
 
 ## Relationship timeline
 
@@ -177,6 +209,29 @@ Examples:
 - S25 Ch9: reception.
 - S25 Ch10: first married morning; Bracken steals a tomato.
 
+## Planned S26–35 intercontinental saga guardrails
+
+Detailed roadmap: `ROADMAP_SEASONS_26_35.md`.
+
+The planned saga may evolve during writing, but these structural intentions are now recorded:
+- Other continents have distinct martial institutions; they are not reskinned Heavenly Registers.
+- Arclune’s **Iron Concord Guild** is the planned No.1 foreign guild and fields actual Banner Legions, fleets, engineers, healers, scouts, and linked military formations.
+- The invasion should create simultaneous strategic problems rather than pretending Cyran Vol is simply “Ryn but stronger.”
+- A two-stage Heavenly Register betrayal is planned: Corven Ash appears to betray the Register as part of Lucy’s counterintelligence plan; the deeper real leak traces to the Pavilion Master’s old foreign contingency pact.
+- The Pavilion Master’s betrayal is motivated by fear and institutional survival, not greed, but remains a genuine betrayal with consequences.
+- **Azure Dragon Hall may fall militarily.**
+- **Jade Moon Sect may fall through an internal collaboration schism.**
+- Fallen Great Sects do not reset next season; survivors, refugees, political fragments, and successor institutions persist.
+- The phrase “Five Great Orthodox Sects” may cease to describe current reality after the war.
+- Preferred first major Top-20 casualty of the intercontinental saga is **Orun Bale**, dying only after a properly established evacuation-defense arc. Taewon remains alive and #1.
+- New #21/#22 candidates must be introduced before any succession they later enter.
+- Ryn and Lucy are planned to found the **Black Mountain Open Gate Sect** because the war proves emergency coalitions cannot remain dependent on famous elites arriving in time.
+- Ryn refuses the title Sect Master; current planning title is **Mountain Teacher**.
+- Lucy’s current planning title is **First Steward**; she authors the charter, doctrine, recruitment rules, logistics and civilian law.
+- The Open Gate Sect may not become a royal arm, cult of Ryn, replacement hegemony, or automatic “Sixth Great Sect.”
+- Important recruits are introduced roughly two or three at a time, never dumped as a twelve-name elite list.
+- Fast pace means strong forward momentum, not short chapters or summary prose.
+
 ## Current source-of-truth files
 
 - Manuscript: `src/content/season-XX/`
@@ -184,11 +239,14 @@ Examples:
 - Current Top 20: `src/features/rankings/top20.ts`
 - Historical succession: `src/features/rankings/history.ts`
 - Character canon: `src/features/characters/data.ts`
+- Ryn formal skills: `src/features/techniques/data.ts`
+- Technique tier schema: `src/features/techniques/types.ts`
 - Timeline: `src/features/timeline/data.ts`
 - Lore: `src/features/lore/data.ts`
 - Villains: `src/features/villains/data.ts`
 - Factions: `src/features/factions/data.ts`
 - Static GitHub Pages reader: `index.html`
+- Planned S26–35 saga: `ROADMAP_SEASONS_26_35.md`
 
 ## Audit result
 
@@ -201,5 +259,7 @@ The 2026-08-25 audit corrected the major known drift introduced when Seasons 16�
 - generic character/faction/lore records that stopped at S15;
 - villain statuses unable to distinguish death, dissolution, and reform;
 - timeline ending before the Eclipse and Silent Age arcs.
+
+Subsequent canon locks added Ryn’s ten-skill formal arsenal, public skill-rank markers, the Ultimate/Supreme reveal restrictions, and the S26–35 intercontinental-war roadmap.
 
 Future changes should update all relevant source-of-truth layers in the same change set.
