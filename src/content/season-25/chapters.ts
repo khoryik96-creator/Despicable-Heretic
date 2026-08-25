@@ -28,9 +28,9 @@ The world still needed shorthand.
 
 Beside every number now appeared affinity, range, survivability, adaptability, team utility, counter-risk, and ambient-qi dependence.
 
-A Rank Twenty profile could now explain why Mina Soryeon was more dangerous to an army than fighters above her.
+A Rank Twenty profile could now explain why Luma Vey was more dangerous to an army than fighters above her.
 
-A Rank Six profile could explain why Han Seojin dominated terrain.
+A Rank Six profile could explain why Sael Vardon dominated terrain.
 
 The Pavilion finally admitted what Lucy had been saying for years:
 
@@ -39,13 +39,13 @@ One number was not a person.` ,
 
 #1 Seo Taewon — White Falcon Sovereign. Wind and pressure. Battlefield mobility supreme.
 
-#2 Mei Xueyan — Crimson Venom Sovereign. Poison and blood. Attrition and internal disruption supreme.
+#2 Veyra Nox — Pale Serpent Sovereign. Poison and blood. Attrition and internal disruption supreme.
 
-#3 Lei Zhen — Thunder Burial Sovereign. Lightning. Instantaneous destruction supreme.
+#3 Dae Kiryun — Stormbreak Sovereign. Lightning and magnetism. Instantaneous destruction supreme.
 
-#4 Liang Yue — Moon-Tide Sovereign. Water and ice. Defense and redirection supreme.
+#4 Maren Sol — Abyssal Tide Sovereign. Water, pressure, and cold. Defense and redirection supreme.
 
-#5 Shen Rui — Vermilion Furnace Sovereign. Fire. Sustained destructive endurance supreme.
+#5 Kassian Ro — Ash-Furnace Sovereign. Fire and combustion. Sustained destructive endurance supreme.
 
 Ryn read the document.
 
@@ -56,16 +56,16 @@ Ryn read the document.
 [[Ryn]] “Still long.”` ,
 4:String.raw`Ranks Eleven through Twenty gained full public titles.
 
-Mountain-Eating Lord.
-Glass Mist Lord.
-Grave Thread Lord.
-Blue Fang Lord.
-Cinder Orchid Lord.
-Shadow Reed Lord.
-Verdant Calamity.
-Falling Star Lord.
-Laughing Blade Lord.
-Rain Lantern Lord.
+Boran Dusk — Stone Maw Lord.
+Elian Mor — Mirage Glass Lord.
+Veska Ren — Puppet Wire Lord.
+Kaio Draven — River Fang Lord.
+Seline Arq — Ember Mercy Lord.
+Corven Ash — Hollow Reed Lord.
+Tavia Moss — Root Calamity.
+Rook Arden — World-Weight Lord.
+Joren Quill — Broken Tempo Lord.
+Luma Vey — Storm Lantern Lord.
 
 People began discussing matchups instead of assuming Rank Eleven automatically humiliated Rank Seventeen in every circumstance.
 
@@ -74,11 +74,11 @@ The martial world became more complicated.
 Lucy considered this healthy.` ,
 5:String.raw`Ranks Six through Ten were reintroduced as the Five Heavenly Pillars.
 
-Han Seojin — terrain domination.
-Mo Qingzhao — resonance disruption.
-Arin Vale — precision offense.
-Jin Seoryu — metal and weapon control.
-Yun Haejin — poison-thread battlefield denial.
+Sael Vardon — terrain domination.
+Orun Bale — resonance disruption.
+Lysandra Keir — precision offense.
+Toren Vahl — metal and magnetic weapon control.
+Nyra Sen — venom-thread battlefield denial.
 
 For the first time their public identities were not merely “the people below the Sovereigns.”
 
