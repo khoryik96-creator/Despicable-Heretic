@@ -55,7 +55,7 @@ Seo Taewon heard him.
 “Only,” he repeated, amused.` ,
 3:String.raw`Nyra Sen entered the poisoned valley alone.
 
-White silk followed her like drifting fog.
+Silk followed her like drifting fog.
 
 The enemy had flooded the ground with venom designed to rise through foot contact.
 
@@ -65,7 +65,7 @@ Thousands of silk strands anchored to trees, rocks, arrows, abandoned weapons, a
 
 She stepped between them as if walking on invisible stairs.
 
-Then White Thread Court closed.
+Then Loom of Needles closed.
 
 The poisoners discovered that every movement tightened another thread.
 
