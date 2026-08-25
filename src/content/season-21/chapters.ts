@@ -95,13 +95,13 @@ That was why she was more dangerous than most warriors.
 She listened to the people nobody wanted to admit were listening.` ,
 5:String.raw`The Five Sovereigns argued for six hours.
 
-Shen Rui called the Silent Age mutilation.
+Kassian Ro called the Silent Age mutilation.
 
-Liang Yue asked whether a child born without talent had ever consented to living beneath cultivators who could destroy cities.
+Maren Sol asked whether a child born without talent had ever consented to living beneath cultivators who could destroy cities.
 
-Lei Zhen said strength itself was not guilt.
+Dae Kiryun said strength itself was not guilt.
 
-Mei Xueyan replied that institutions built around strength often became guilty anyway.
+Veyra Nox replied that institutions built around strength often became guilty anyway.
 
 Seo Taewon said little.
 
@@ -139,7 +139,7 @@ Then at her.
 [[Ryn]] “So you fight the reason.”
 
 [[Lucy]] “Exactly.”` ,
-7:String.raw`The first Severed Star entered Shen Rui’s province.
+7:String.raw`The first Severed Star entered Kassian Ro’s province.
 
 Flame qi vanished across fifty miles.
 
@@ -160,17 +160,17 @@ The Pavilion named them after the star-shaped scars each carried over the heart.
 Mu-gyeol had not merely returned.
 
 He had trained a generation to make the Top Twenty incomplete.` ,
-8:String.raw`Shen Rui reached for flame.
+8:String.raw`Kassian Ro reached for flame.
 
 Nothing answered.
 
-The Vermilion Furnace Sovereign stood in silence.
+The Ash-Furnace Sovereign stood in silence.
 
 His enemy smiled.
 
-Then Shen Rui’s skin turned red.
+Then Kassian’s skin turned red.
 
-Furnace-body cultivation did not require fire outside him.
+Furnace Body did not require fire outside him.
 
 His bones had been tempered for decades.
 
@@ -178,7 +178,7 @@ His organs breathed heat even when qi expression failed.
 
 He stepped forward and broke the Severed Star’s guard with a plain shoulder strike.
 
-“No flame?” Rui said.
+“No flame?” Kassian said.
 
 He cracked his neck.
 
