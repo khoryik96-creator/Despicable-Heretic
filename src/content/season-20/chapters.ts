@@ -48,13 +48,13 @@ For one terrible minute the battlefield became ordinary.
 
 No storms. No poison mist. No tidal qi. No burning palms.
 
-Then Mei Xueyan punched someone.
+Then Veyra Nox punched someone.
 
-Lei Zhen used footwork without lightning.
+Dae Kiryun used footwork without lightning.
 
-Liang Yue fought with throws.
+Maren Sol fought with throws.
 
-Shen Rui’s furnace-body absorbed a spear thrust and broke the shaft.
+Kassian Ro’s Furnace Body absorbed a spear thrust and broke the shaft.
 
 Taewon moved fast because his body was still absurd, even without wind.
 
@@ -146,10 +146,10 @@ That confused everyone except Lucy.
 
 The Five Sovereigns moved.
 
-Shen Rui took the Ash King.
-Liang Yue trapped the Drought King.
-Lei Zhen shattered Iron Sky’s grounded network.
-Mei Xueyan dismantled Bone Saint’s internal structure.
+Kassian Ro took the Ash King.
+Maren Sol trapped the Drought King.
+Dae Kiryun shattered Iron Sky’s grounded network.
+Veyra Nox dismantled Bone Saint’s internal structure.
 Seo Taewon drove First Seat from the clouds into the earth.
 
 No rescue.
