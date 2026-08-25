@@ -1,5 +1,5 @@
 export const chapterBodies: Record<number,string> = {
-1:String.raw`Sorin Kade turned one city into ten.
+1:String.raw`Elian Mor turned one city into ten.
 
 The invaders entered through the eastern gate and found empty streets.
 
@@ -9,7 +9,7 @@ Every doorway led somewhere plausible. Every shadow carried a false breath. Ever
 
 By dusk, three thousand soldiers had surrendered to opponents who were mostly not there.
 
-Sorin finally appeared on a rooftop, pale and exhausted.
+Elian finally appeared on a rooftop, pale and exhausted.
 
 “No civilians harmed,” he told Lucy.
 
@@ -17,14 +17,14 @@ Lucy looked over the city.
 
 [[Lucy]] “And no walls destroyed.”
 
-Sorin smiled.
+Elian smiled.
 
 “Walls are expensive.”
 
 Ryn nodded from beside her.
 
 [[Ryn]] “Reasonable man.”` ,
-2:String.raw`Two Eclipse Seats struck Gao Ren together.
+2:String.raw`Two Eclipse Seats struck Boran Dusk together.
 
 The first attack cratered the road.
 
@@ -36,11 +36,11 @@ His shirt was gone.
 
 His patience was also gone.
 
-Gao stepped forward.
+Boran stepped forward.
 
 Every muscle across his back tightened like cables beneath skin.
 
-“Unmoving Godbody.”
+“Stone Maw Body.”
 
 The next blow hit him squarely.
 
@@ -53,26 +53,26 @@ Watching from a ridge, one junior disciple whispered, “He is only Rank Eleven?
 Seo Taewon heard him.
 
 “Only,” he repeated, amused.` ,
-3:String.raw`Yun Haejin entered the poisoned valley alone.
+3:String.raw`Nyra Sen entered the poisoned valley alone.
 
 White silk followed her like drifting fog.
 
 The enemy had flooded the ground with venom designed to rise through foot contact.
 
-Yun never touched the ground.
+Nyra never touched the ground.
 
 Thousands of silk strands anchored to trees, rocks, arrows, abandoned weapons, and the enemy’s own armor.
 
 She stepped between them as if walking on invisible stairs.
 
-Then the field closed.
+Then White Thread Court closed.
 
 The poisoners discovered that every movement tightened another thread.
 
-By the time Yun smiled, no one could move without cutting themselves.
+By the time Nyra smiled, no one could move without cutting themselves.
 
 “Poison,” she said softly, “is much more interesting when it belongs to someone else.”` ,
-4:String.raw`Jin Seoryu’s enemy turned every sword on the battlefield against him.
+4:String.raw`Toren Vahl’s enemy turned every sword on the battlefield against him.
 
 Metal screamed from sheaths.
 
@@ -80,20 +80,20 @@ Spears bent in soldiers’ hands.
 
 Even armor buckled toward the hostile magnetic field.
 
-Jin dropped his weapon.
+Toren dropped his weapon.
 
 Then he closed his fist.
 
-Black qi condensed along his forearm, layer by layer, until it formed a blunt-edged blade with no metal at all.
+Dark qi condensed along his forearm, layer by layer, until it formed a blunt-edged blade with no metal at all.
 
 The enemy stared.
 
-Jin swung once.
+Toren swung once.
 
 The magnetic field split with the stone beneath it.
 
-“Black Iron,” Jin said, “was never about iron.”` ,
-5:String.raw`Arin Vale’s duel lasted forty-three breaths.
+“Iron Orbit,” Toren said, “was never about needing iron.”` ,
+5:String.raw`Lysandra Keir’s duel lasted forty-three breaths.
 
 Ryn watched all of them.
 
@@ -101,13 +101,13 @@ That alone made Lucy pay attention.
 
 The Eclipse duelist used seven mirrored sword lines at once, each designed to force a predictable defense.
 
-Arin did not defend.
+Lysandra did not defend.
 
 She stepped through the smallest gap between all seven.
 
 Her blade moved once.
 
-One Sword, Seven Dawns.
+Seven Returning Cuts.
 
 Seven cuts appeared on the enemy’s sleeves, belt, scabbard, collar, boot, glove, and hair ribbon.
 
@@ -122,7 +122,7 @@ Ryn’s eyes narrowed slightly.
 [[Ryn]] “Efficient.”
 
 From Ryn, that was practically a standing ovation.` ,
-6:String.raw`The silence field swallowed Mo Qingzhao’s first bell strike.
+6:String.raw`The silence field swallowed Orun Bale’s first resonance strike.
 
 No vibration returned.
 
@@ -132,7 +132,7 @@ No resonance.
 
 The enemy smiled.
 
-Mo placed two fingers over his own chest.
+Orun placed two fingers over his own chest.
 
 Thump.
 
@@ -144,18 +144,20 @@ Blood moved.
 
 Bones carried vibration.
 
-The Golden Bell Marquis closed his eyes.
+The Resonance Warden closed his eyes.
 
 Then he struck his sternum once with two knuckles.
+
+Heartbeat Fracture.
 
 The field shattered from the inside.
 
 Every enemy in range collapsed clutching their ears.
 
-Mo exhaled.
+Orun exhaled.
 
 “Silence,” he said, “still has structure.”` ,
-7:String.raw`Han Seojin moved a desert.
+7:String.raw`Sael Vardon moved a desert.
 
 Not metaphorically.
 
@@ -163,7 +165,7 @@ The enemy fortress stood on hard red earth at sunrise.
 
 By noon dunes rolled over its outer walls like waves.
 
-Han’s Burial Sea of Sand ground siege engines to fragments and peeled stone from towers.
+Sael’s Dune Kingdom ground siege engines to fragments and peeled stone from towers.
 
 Then he felt life beneath the central keep.
 
@@ -171,7 +173,7 @@ Prisoners.
 
 His attack stopped one finger-width before crushing the foundations.
 
-Blood ran from Han’s nose.
+Blood ran from Sael’s nose.
 
 Holding that much moving terrain still while separating friend from enemy cost more than destroying everything.
 
@@ -209,9 +211,9 @@ Lucy agreed.
 
 Then she changed everything else.
 
-Liang Yue went where Lei Zhen was expected.
-Lei Zhen attacked a reinforcement network instead of a King.
-Mei Xueyan supported Rank Eleven.
+Maren Sol went where Dae Kiryun was expected.
+Dae attacked a reinforcement network instead of a King.
+Veyra Nox supported Rank Eleven.
 Seo Taewon ignored the obvious battlefield entirely.
 
 The generals protested.
