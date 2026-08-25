@@ -155,33 +155,53 @@ It was enough.`,
 
 4: String.raw`Rank #7 held Stonewake Bridge alone.
 
-His name was Hwan Dae, known as the Bronze Spear Lord.
+His name was Orun Bale.
 
-For years he had been a footnote beneath the terrifying gaps of the upper Register.
+The Pavilion called him the Resonance Warden.
 
-That ended at Stonewake.
+For years, most public summaries reduced him to one line beneath the terrifying gaps of the upper Register: sound and vibration.
+
+Stonewake showed how inadequate that was.
 
 An Iron Rain strike force of sixty elite warriors attempted to cross the river toward an Orthodox supply city.
 
-Hwan Dae stood in the center of the bridge.
+Orun stood in the center of the bridge with a plain bronze spear resting against one shoulder.
 
-His spear touched the stone once.
+The spear was not his specialty.
+
+The bridge was.
+
+He touched the spear butt to stone once.
 
 “Turn back.”
 
 They did not.
 
+The first attacker stepped onto the central span.
+
+Orun tapped the stone again.
+
+The vibration traveled through mortar, pillars, armor, weapon shafts, and bone at different speeds.
+
+Three Iron Rain swords flew from numb hands without a single blade being struck.
+
+A charging warrior lost balance when the bridge vibrated beneath only his left foot.
+
+Another tried to shatter the stone and discovered Orun had already found the frequency of his reinforcement technique.
+
+It broke before the bridge did.
+
 The battle lasted an hour.
 
-When it ended, the bridge still stood.
+When it ended, Stonewake still stood.
 
-Hwan Dae still stood.
+Orun still stood.
 
 Forty-seven Iron Rain warriors were unconscious.
 
 Thirteen had retreated carrying their wounded.
 
-Hwan Dae’s left arm hung uselessly at his side.
+Orun’s left arm hung uselessly at his side.
 
 He had not killed one opponent.
 
@@ -197,7 +217,13 @@ Taewon looked at him.
 
 That single word from Ryn meant more than a hundred Pavilion commendations.
 
-Lucy smiled.
+Lucy underlined Orun’s name.
+
+She knew his rank now.
+
+She did not yet know the man.
+
+That distinction would matter later.
 
 The Register was incomplete.
 
