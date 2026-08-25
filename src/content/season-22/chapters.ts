@@ -1,17 +1,17 @@
 export const chapterBodies: Record<number,string> = {
-1:String.raw`Mei Xueyan entered the Empty Blood field and felt every poison channel go still.
+1:String.raw`Veyra Nox entered the Empty Blood field and felt every poison channel go still.
 
 The Severed Star smiled.
 
-“No venom. No blood mist. No scarlet qi.”
+“No venom. No blood mist. No serpent qi.”
 
-Mei removed her gloves.
+Veyra removed her gloves.
 
 Her fingers were scarred from decades of handling things that killed other people on contact.
 
 She stepped forward.
 
-Ten-Thousand Scarlet Veins was silent.
+Seven Organ Silence was silent.
 
 Her elbows were not.
 
@@ -21,36 +21,36 @@ Her knowledge of anatomy certainly was not.
 
 Three strikes later the Star could no longer lift his right arm.
 
-“Poison taught me where people break,” Mei said. “It did not invent the locations.”` ,
+“Poison taught me where people break,” Veyra said. “It did not invent the locations.”` ,
 2:String.raw`Lightning refused to move.
 
-Lei Zhen hated that immediately.
+Dae Kiryun hated that immediately.
 
-Mina Soryeon hated it quietly.
+Luma Vey hated it quietly.
 
 The Star of Still Storms expanded a field where electrical qi died the instant it left the body.
 
-Lei Zhen could not Thunderstep.
+Kiryun could not use Hundred Lightning Steps.
 
-Mina could not charge rain.
+Luma could not charge rain.
 
-So Mina flooded the ground with ordinary water.
+So Luma flooded the ground with ordinary water.
 
-Lei Zhen ran.
+Kiryun ran.
 
 Actually ran.
 
 His body cultivation was still monstrous.
 
-At the final step Mina collapsed her water into one narrow channel.
+At the final step Luma collapsed her water into one narrow channel.
 
-Lei Zhen released lightning only inside his own arm at the instant of impact.
+Kiryun released lightning only inside his own arm at the instant of impact.
 
 No propagation required.
 
 The Star hit the ground smoking.
 
-Mina looked at Lei Zhen.
+Luma looked at Kiryun.
 
 “Subtle.”
 
@@ -59,19 +59,19 @@ He grinned.
 “Painful.”` ,
 3:String.raw`The Star of Dry Seas made the valley feel thirsty.
 
-Liang Yue’s water qi vanished from the air.
+Maren Sol’s water qi vanished from the air.
 
-Tae Mun’s blue aura thinned.
+Kaio Draven’s river aura thinned.
 
 The Star laughed.
 
-Liang Yue knelt and pressed two fingers to the stone.
+Maren knelt and pressed two fingers to the stone.
 
 Cold moved through conduction rather than water.
 
 The rock temperature dropped.
 
-Tae Mun used the brittle surface to launch himself forward without his usual current-assisted movement.
+Kaio used the brittle surface to launch himself forward without his usual current-assisted movement.
 
 One used thermodynamics.
 
@@ -79,47 +79,47 @@ One used muscle.
 
 Neither used the art the enemy expected.
 
-When the Star fell, Liang Yue said nothing.
+When the Star fell, Maren said nothing.
 
-Tae Mun grinned.
+Kaio grinned.
 
 “Dry enough for you?”` ,
-4:String.raw`Han Seojin lost the desert.
+4:String.raw`Sael Vardon lost the desert.
 
-Gao Ren lost earth reinforcement.
+Boran Dusk lost earth reinforcement.
 
-Kwon Mirae lost pressure anchoring.
+Rook Arden lost pressure anchoring.
 
 Three earth-heavy monsters stood on soil that refused to answer them.
 
 The Severed Star expected panic.
 
-Han threw sand by hand.
+Sael threw sand by hand.
 
-Gao Ren threw Han.
+Boran threw Sael.
 
-Kwon Mirae redirected Han’s flight with one precisely timed shoulder strike.
+Rook redirected Sael’s flight with one precisely timed shoulder strike.
 
 Rank Six became a projectile.
 
 He hit the Star feet-first.
 
-Afterward Han lay in the crater and stared at the sky.
+Afterward Sael lay in the crater and stared at the sky.
 
 “This was undignified.”
 
-Gao Ren nodded.
+Boran nodded.
 
 “Effective.”
 
-Kwon Mirae laughed for several minutes.` ,
+Rook laughed for several minutes.` ,
 5:String.raw`Seo Taewon without wind was still Seo Taewon.
 
 The Star of Quiet Breath learned that too late.
 
-White Sky Dominion failed.
-Falcon Without Shadow failed.
-Pressure Sea failed.
+Sky Has No Walls failed.
+Falcon Crossing Ten Miles failed.
+Pressure Burial failed.
 
 Taewon simply crossed the distance with footwork so refined that observers still lost track of him.
 
@@ -142,15 +142,15 @@ Taewon smiled.
 
 It was chaos.
 
-Shen Rui learned water redirection from Liang Yue and complained the whole time.
+Kassian Ro learned water redirection from Maren Sol and complained the whole time.
 
-Mei Xueyan practiced body reinforcement with Gao Ren.
+Veyra Nox practiced body reinforcement with Boran Dusk.
 
-Arin Vale trained blindfolded under Ilya Voss.
+Lysandra Keir trained blindfolded under Corven Ash.
 
-Mina learned tracking from Tae Mun.
+Luma Vey learned tracking from Kaio Draven.
 
-Han Seojin studied battlefield resonance with Mo Qingzhao.
+Sael Vardon studied battlefield resonance with Orun Bale.
 
 The old culture of secret techniques resisted.
 
@@ -172,7 +172,7 @@ The exercises were deliberately unfair.
 
 [[Lucy]] “Real enemies do not care whether the matchup respects your dignity.”
 
-Lei Zhen pointed at a maze containing poison mist, weighted floors, and invisible threads.
+Dae Kiryun pointed at a maze containing poison mist, weighted floors, and invisible threads.
 
 “This is excessive.”
 
@@ -193,13 +193,13 @@ The Top Twenty waited.
 
 That was all.
 
-Shen Rui frowned.
+Kassian Ro frowned.
 
 “That is your lesson?”
 
 [[Ryn]] “Yes.”
 
-Mei Xueyan tilted her head.
+Veyra Nox tilted her head.
 
 “What should we be instead?”
 
@@ -224,7 +224,7 @@ They also paid for it.
 
 Broken ribs. Ruptured meridians. Burned nerves. Torn tendons.
 
-Qiao Lian worked for two days without sleep.
+Seline Arq worked for two days without sleep.
 
 Ryn offered to heal everyone at once.
 
