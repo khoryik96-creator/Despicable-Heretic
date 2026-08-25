@@ -118,12 +118,12 @@ For the first time the First Silence understood something important:
 Ryn had spent most of his life fighting beneath his own curiosity.` ,
 6:String.raw`While Ryn fought, the Top Twenty held the world together.
 
-Mina powered emergency communication grids.
-Qiao Lian stabilized hospitals.
-Han Seojin rebuilt collapsed canals with earthworks.
-Liang Yue coordinated flood defenses.
-Mei Xueyan ran medicine distribution.
-Gao Ren physically reinforced failing barriers.
+Luma Vey powered emergency communication grids.
+Seline Arq stabilized hospitals.
+Sael Vardon rebuilt collapsed canals with earthworks.
+Maren Sol coordinated flood defenses.
+Veyra Nox ran medicine distribution.
+Boran Dusk physically reinforced failing barriers.
 
 No glorious duel.
 
