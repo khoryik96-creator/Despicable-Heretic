@@ -197,15 +197,17 @@ Rank #38 destroyed formation anchors hidden among ordinary soldiers.
 
 Rank #19 broke an elite assault unit before it reached the hospital.
 
-Rank #10 Mirei Sol rang her bell and turned a rain of arrows sideways.
+Nyra Sen, Rank #10, stretched a fan of near-invisible silk above the eastern trench. Hundreds of arrows touched the threads, lost their angles, and fell harmlessly into mud.
 
-Rank #7 Hwan Dae held the southern bridge again.
+Orun Bale, Rank #7, held the southern bridge again.
 
 This time he had both arms.
 
 He was delighted.
 
-The Heavenly Pillars moved like disasters between battle lines.
+Every plank beneath him hummed with controlled resonance whenever Hollow Heaven tried to mass on the span.
+
+Above those individual fronts, the Heavenly Pillars moved like disasters between battle lines.
 
 The Sovereigns had not entered yet.
 
