@@ -31,7 +31,7 @@ Some wanted powerful sects weakened.
 Some did not care who won as long as medicine still worked.
 
 Lucy wrote all of it down.` ,
-3:String.raw`Mei Xueyan treated an epidemic without poison qi.
+3:String.raw`Veyra Nox treated an epidemic without poison qi.
 
 No blood mist.
 No venom threads.
@@ -45,18 +45,18 @@ A young physician stared.
 
 “You can do normal medicine?”
 
-Mei smiled.
+Veyra smiled.
 
 “Poison is medicine with poor public relations.”
 
 By dawn the fever rate had dropped.
 
-For the first time in years, Mei felt proud of something nobody would ever rank.` ,
-4:String.raw`Lei Zhen had to walk.
+For the first time in years, Veyra felt proud of something nobody would ever rank.` ,
+4:String.raw`Dae Kiryun had to walk.
 
 He hated walking.
 
-Without stable lightning propagation, Thunderstep became dangerous across long distances.
+Without stable lightning propagation, Hundred Lightning Steps became dangerous across long distances.
 
 So Rank Three traveled with a civilian caravan.
 
@@ -67,7 +67,7 @@ He saw inns, broken bridges, exhausted horses, and villages that had never once 
 When he finally reached his destination, he quietly funded three road repairs.
 
 He told no one.` ,
-5:String.raw`Liang Yue saved the coastal city with engineers.
+5:String.raw`Maren Sol saved the coastal city with engineers.
 
 The sea wall had always relied on water-aligned reinforcement.
 
@@ -75,9 +75,9 @@ That reinforcement was failing.
 
 So she ordered stone buttresses, redirected canals, evacuated low districts, and personally carried beams when crews became exhausted.
 
-No Moon-Tide art.
+No Abyssal Tide art.
 
-No frozen ocean.
+No pressure sea.
 
 Just competence.
 
@@ -85,7 +85,7 @@ The city survived the storm.
 
 Later a child asked if she had used a Sovereign technique.
 
-Liang Yue smiled.
+Maren smiled.
 
 “Yes.”
 
