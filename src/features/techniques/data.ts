@@ -1,31 +1,31 @@
 import type { Technique } from './types';
 
-// Ryn's formal arsenal. Casual feats such as the pebble flick, ladle counter,
-// teacup-lid block, and single-tap formation erasure are deliberately NOT
-// counted as skills: the point is that Ryn often does not need one.
-//
-// Reveal lock:
-// - Ultimate: must remain unreleased until explicit user approval.
-// - Supreme: at most ONE Supreme may be revealed in prose before explicit user approval.
-// - Named / Transcended: may be revealed naturally when the story earns them.
+// Ryn's ten formal arts through Season 45.
+// Casual feats remain deliberately outside this list.
+// Reveal lock remains absolute:
+// - No Heaven Above Me is the ONE revealed Supreme.
+// - Unwritten Law remains sealed unless explicitly approved.
+// - The Last Quiet Beneath Heaven remains hard-locked and unreleased.
 export const techniques: Technique[] = [
   {
     id: 'returning-breath-of-the-mountain',
     name: 'Returning Breath of the Mountain',
     user: 'Ryn',
-    tier: 'Named Skill',
+    tier: 'Transcended',
     category: 'Healing',
-    reveal: 'Unrevealed',
-    description: 'Ryn restores a damaged body by forcing breath, blood, and internal circulation back into agreement. It can stabilize mortal injuries, purge most poisons, close ruptured meridians, and restart collapsed qi circulation, but it cannot resurrect the dead. This is Ryn’s sole formal healing art.'
+    reveal: 'Revealed',
+    revealedIn: 'Named form revealed by S29; evolved to Transcended in S42',
+    description: 'Ryn’s sole formal healing art. It began as a Named Skill that restores breath, blood, poisoned circulation, and ruptured meridians. Mercy Hall pressure taught Ryn to stabilize many patients at once. In Season 42 it evolves into Returning Breath of the Mountain — Hundred Living Breaths, a Transcended healing field that can keep hundreds of injured bodies from worsening while physicians work. It still cannot resurrect the dead, a limit made painfully explicit by Maren Sol’s death.'
   },
   {
     id: 'empty-hand-measure',
     name: 'Empty-Hand Measure',
     user: 'Ryn',
-    tier: 'Named Skill',
+    tier: 'Transcended',
     category: 'Counter',
-    reveal: 'Unrevealed',
-    description: 'A contact counter that reads the structure, direction, and intention of incoming force through a single touch, then dismantles or redirects it with absurd efficiency. Against weaker arts, it makes overwhelming attacks look embarrassingly simple.'
+    reveal: 'Revealed',
+    revealedIn: 'Named form revealed S35; evolved to Transcended in S39',
+    description: 'Originally a contact counter that reads and dismantles force through touch. Sparring with Darr Vesk pushes the art beyond contact in Season 39. Empty-Hand Measure — Measure Before Contact reads breath, loading, qi preparation, attention, and structural intention before an attack is completed, allowing Ryn to identify failure points before the technique fully exists.'
   },
   {
     id: 'step-between-footfalls',
@@ -33,8 +33,9 @@ export const techniques: Technique[] = [
     user: 'Ryn',
     tier: 'Named Skill',
     category: 'Movement',
-    reveal: 'Unrevealed',
-    description: 'Ryn moves through the interval between an opponent deciding to act and the action becoming complete. To observers it resembles teleportation, but the art is really an impossible mastery of timing, intent, and position.'
+    reveal: 'Revealed',
+    revealedIn: 'Season 27',
+    description: 'Ryn moves through the interval between intent and completed action. In Season 37 the art accidentally carries Lucy with him for less than a heartbeat, proving the interval can be shared under contact even though the technique has not yet formally promoted to Transcended tier.'
   },
   {
     id: 'still-sky',
@@ -44,7 +45,7 @@ export const techniques: Technique[] = [
     category: 'Control',
     reveal: 'Revealed',
     revealedIn: 'Season 13',
-    description: 'Ryn’s first revealed formal art. Still Sky arrests motion across a vast controlled area, freezing hostile qi threads, moving formation structures, projectiles, weather effects, and other nonliving forces without freezing living people. Ryn then decides what is allowed to resume.'
+    description: 'Ryn’s first revealed formal art. Still Sky arrests motion across a controlled area and later develops additional movements against predictive formations and world-scale qi failures. In Season 45 it evolves into Still Sky — Living Exemption: Ryn no longer merely distinguishes living from nonliving; he decides what is permitted to continue based on purpose, allowing evacuation carts, medical equipment, bridge ropes, and civilians to move while collapse, hostile qi, and debris remain frozen.'
   },
   {
     id: 'horizon-without-distance',
@@ -52,8 +53,9 @@ export const techniques: Technique[] = [
     user: 'Ryn',
     tier: 'Transcended',
     category: 'Movement',
-    reveal: 'Unrevealed',
-    description: 'A movement art that treats separated points inside Ryn’s awareness as adjacent steps. Mountains, battle lines, walls, and ordinary pursuit geometry stop functioning as meaningful distance for him.'
+    reveal: 'Revealed',
+    revealedIn: 'Season 43',
+    description: 'Treats separated points inside Ryn’s awareness as adjacent rather than distant. Its Season 43 evolution, Horizon Without Distance — Shared Passage, lets Ryn temporarily give that adjacency to others, creating evacuation paths through otherwise impossible geography. During the World Meridian crisis he learns to navigate relationships between locations rather than ordinary distance.'
   },
   {
     id: 'ten-thousand-roads-return',
@@ -61,8 +63,9 @@ export const techniques: Technique[] = [
     user: 'Ryn',
     tier: 'Transcended',
     category: 'Counter',
-    reveal: 'Unrevealed',
-    description: 'Ryn identifies the path by which a technique, formation, or elemental art receives force and sends that force back through its own route. The stronger and more structured the enemy technique is, the more catastrophic its return can become.'
+    reveal: 'Revealed',
+    revealedIn: 'Season 33',
+    description: 'Originally returns structured force through the path that generated it. In Season 45 it evolves into Ten Thousand Roads Return — One Road Home, allowing Ryn to choose a safe destination for returning force rather than simply throwing power back at its source. He uses it to route pressure, heat, and qi density into stable World Meridian branches without sacrificing soldiers or civilians.'
   },
   {
     id: 'unbroken-vessel',
@@ -70,8 +73,9 @@ export const techniques: Technique[] = [
     user: 'Ryn',
     tier: 'Transcended',
     category: 'Passive',
-    reveal: 'Unrevealed',
-    description: 'Ryn’s internal world can circulate without depending on normal environmental qi relationships. Suppression, poison, broken terrain flow, and severance can still inconvenience him, but they cannot reduce him to an ordinary cultivator the way they can everyone else.'
+    reveal: 'Revealed',
+    revealedIn: 'Season 34',
+    description: 'Ryn’s internal circulation remains functional when ambient qi relationships are suppressed, poisoned, or severed. In Season 45 it evolves into Unbroken Vessel — Inner World: his internal circulation becomes a complete closed system that no longer needs to draw from ambient qi, allowing him to stand inside the World Meridian without being rewritten by it.'
   },
   {
     id: 'no-heaven-above-me',
@@ -79,8 +83,9 @@ export const techniques: Technique[] = [
     user: 'Ryn',
     tier: 'Supreme',
     category: 'Control',
-    reveal: 'Sealed',
-    description: 'SEALED SUPREME. Within its true domain, external martial phenomena no longer receive automatic authority from the world: wind need not move, fire need not spread, poison need not circulate, pressure need not transfer, and formations need not complete. Ryn decides which rules are permitted to continue. Only one Supreme may be revealed in the novel before explicit approval.'
+    reveal: 'Revealed',
+    revealedIn: 'Season 34',
+    description: 'The only Supreme Ryn has revealed. Within its domain, external martial phenomena lose automatic authority from the world: wind need not move, fire need not spread, poison need not circulate, pressure need not transfer, and formations need not complete. This remains an exceptional once-in-a-saga revelation rather than a routine technique.'
   },
   {
     id: 'unwritten-law',
@@ -89,7 +94,7 @@ export const techniques: Technique[] = [
     tier: 'Supreme',
     category: 'Counter',
     reveal: 'Sealed',
-    description: 'SEALED SUPREME. Ryn temporarily denies one martial principle inside a chosen conflict. An attack may land without transmitting force; a poison may enter blood without becoming toxic; a binding formation may close without gaining the property of restraint. Its upper limit is intentionally undisclosed. Only one Supreme may be revealed before explicit approval.'
+    description: 'SEALED SUPREME. Ryn temporarily denies one martial principle inside a chosen conflict. Its true upper limit remains unreleased. No prose reveal is permitted until explicit approval because No Heaven Above Me already occupies the single approved Supreme reveal slot.'
   },
   {
     id: 'the-last-quiet-beneath-heaven',
@@ -98,6 +103,6 @@ export const techniques: Technique[] = [
     tier: 'Ultimate',
     category: 'Offense',
     reveal: 'Sealed',
-    description: 'HARD-LOCKED ULTIMATE. The name is recorded on Ryn’s private arsenal, but its effect, activation condition, scale, cost, and visual manifestation remain unreleased. It must not appear in prose until explicit approval.'
+    description: 'HARD-LOCKED ULTIMATE. Only the name is recorded. Effect, activation condition, scale, cost, and visual manifestation remain completely unreleased. It must not appear in prose without explicit approval.'
   }
 ];
