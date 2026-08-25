@@ -64,11 +64,11 @@ Ryn, watching from the porch, nodded approvingly.
 [[Ryn]] “I have never threatened anyone with children.”
 
 [[Lucy]] “Your methods are less civilized.”` ,
-4:String.raw`Veyra Nox arrived carrying a red lacquer chest.
+4:String.raw`Veyra Nox arrived carrying a green lacquer chest.
 
 Every physician in the imperial delegation backed away.
 
-The Pale Serpent Sovereign smiled.
+The Viridian Serpent Sovereign smiled.
 
 “It is an antidote collection.”
 
@@ -153,7 +153,7 @@ Rank Seventeen staggered for the first time in years.
 
 A masked cultivator stepped through the grey leaves.
 
-“Root Calamity. Confirmed weakness: dependency on living terrain.”
+“Thorn Regent. Confirmed weakness: dependency on living terrain.”
 
 Tavia’s eyes hardened.
 
