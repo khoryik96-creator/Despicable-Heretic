@@ -40,7 +40,7 @@ Maren looked at the blood mist hanging around his shoulders.
 
 “No,” she replied. “Your body requires water.”
 
-Winter Current Reversal moved.
+Countercurrent Lock moved.
 
 The mist twisted.
 
@@ -92,7 +92,7 @@ No ordinary meridian rhythm.
 
 He had been designed to fight Veyra Nox.
 
-The Pale Serpent Sovereign smiled when she understood.
+The Viridian Serpent Sovereign smiled when she understood.
 
 Then she put the poison away.
 
