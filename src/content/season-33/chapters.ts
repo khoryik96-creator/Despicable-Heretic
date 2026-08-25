@@ -405,5 +405,403 @@ Marek stood slowly.
 
 For the first time, the Forge Crown looked delighted.
 
-The duel continued.`
+The duel continued.` ,
+
+6: String.raw`First Gate saved a Sovereign.
+
+Nobody at Open Gate was emotionally prepared for this.
+
+Maren Sol was holding a flooded gorge when a Concord strike company detonated the upstream dam.
+
+The resulting surge would have trapped her between two pressure fronts.
+
+Sorin Vale saw the timing on a field map.
+
+She shouted one command.
+
+Pell Orda broke a maintenance gate.
+
+Kesh Ardan vitrified one bank into a smooth glass spillway.
+
+Mira Veyl redirected three village teams before the water reached them.
+
+Nemea Cors synchronized fifty Open Gate students across a rescue chain.
+
+The second pressure front arrived thirty degrees off its intended line.
+
+Maren stepped through the gap.
+
+Then turned the entire flood away from the village.
+
+Afterward she stood dripping in the mud.
+
+Sorin approached.
+
+“Are you hurt?”
+
+Maren stared at her.
+
+“No.”
+
+Sorin nodded.
+
+“Good.”
+
+Then fainted from exhaustion.
+
+Maren caught her.
+
+At Black Mountain, Lucy read the report to Ryn.
+
+He was silent.
+
+[[Lucy]] “They saved Rank #4.”
+
+[[Ryn]] “Yes.”
+
+[[Lucy]] “You may say something emotional.”
+
+[[Ryn]] “Good.”
+
+She waited.
+
+He looked away.
+
+[[Ryn]] “Very good.”
+
+Lucy smiled.
+
+Progress remained microscopic and precious.` ,
+
+7: String.raw`Cyran Vol finally entered the central front personally.
+
+The effect was immediate.
+
+Six Banner Legions synchronized.
+
+Not fully.
+
+Enough.
+
+Cyran stood on a mobile command platform forty miles from Black Mountain and inhaled.
+
+Thousands inhaled with him.
+
+His awareness expanded through scouts, shield companies, engineers, cavalry formations, healers, and signal towers.
+
+He did not become six armies.
+
+Six armies became extensions of one decision cycle.
+
+Taewon attacked.
+
+Cyran felt him through four hundred eyes.
+
+Wind pressure struck.
+
+Defensive force distributed across twenty companies.
+
+Taewon crossed the field.
+
+Cyran borrowed momentum from three cavalry units and met him.
+
+The collision flattened an empty hillside.
+
+Taewon was still stronger personally.
+
+That stopped mattering.
+
+Every advantage Cyran lacked existed somewhere in the network.
+
+Every wound he took could be partially distributed.
+
+Every opening Taewon created was seen by thousands.
+
+After twelve minutes, Taewon withdrew.
+
+Not defeated.
+
+Unable to continue without turning soldiers into collateral.
+
+Cyran did not pursue.
+
+He stood on the ruined hill breathing through an army.
+
+Lucy watched through a signal mirror.
+
+Ryn stood beside her.
+
+[[Ryn]] “Bad.”
+
+[[Lucy]] “Yes.”
+
+[[Ryn]] “I can break the link.”
+
+She looked at him.
+
+[[Lucy]] “What happens to the people carrying it?”
+
+Silence.
+
+That was Cyran's shield.
+
+Not power.
+
+Responsibility.` ,
+
+8: String.raw`The Iron Concord built a formation that used roads as meridians.
+
+Tessan Ri nearly admired it.
+
+Then remembered it was invading him.
+
+The six-legion network connected captured bridges, rail lines, sea towers, and supply depots into one continental circuit.
+
+Destroy one node and pressure rerouted.
+
+Destroy ten and the network adapted.
+
+Lucy looked at Ryn.
+
+[[Lucy]] “Can you return it?”
+
+He looked at the map.
+
+For once, he asked Tessan questions.
+
+Where did the force enter?
+
+Where did it branch?
+
+Which paths carried command rather than power?
+
+Tessan answered.
+
+Ryn walked to the eastern ridge.
+
+Cyran's circuit activated below.
+
+Thousands of formation lines lit across the land.
+
+Ryn raised one hand.
+
+[[Ryn]] “Ten Thousand Roads Return.”
+
+Nothing exploded.
+
+The formation simply reversed its understanding of direction.
+
+Power moving inland turned outward.
+
+Commands traveling from central towers returned to their senders.
+
+Pressure borrowed from one company flowed back before distribution.
+
+Every structured route became a road home.
+
+Across six fronts, Concord formations stuttered simultaneously.
+
+Cyran Vol dropped to one knee.
+
+Not wounded.
+
+Overloaded with his own returning network.
+
+Ryn closed his fingers before the reversal reached the soldiers' bodies.
+
+The technique stopped exactly at the command layer.
+
+Tessan stared.
+
+“You returned a continental formation without returning the people.”
+
+Ryn looked at him.
+
+[[Ryn]] “Yes.”
+
+Tessan sat down.
+
+He needed a moment.
+
+Lucy understood.
+
+A Transcended art had just rewritten a war map.
+
+And Ryn still looked annoyed that it required a name.` ,
+
+9: String.raw`Toren Vahl died repairing the war.
+
+Marek Voss did not kill him.
+
+Ten Thousand Roads Return shattered the Concord command circuit, but one relay beneath the foundry belt failed catastrophically.
+
+Stored magnetic force from multiple Banner sectors had nowhere to go.
+
+The relay began pulling every connected metal structure toward one point.
+
+Bridges twisted.
+
+Medical wagons slid sideways.
+
+Thousands of weapons tore loose.
+
+Marek saw it first.
+
+Toren saw it second.
+
+They both ran toward the relay.
+
+Enemies ten minutes earlier.
+
+Engineers now.
+
+Marek tried to disconnect the network.
+
+Toren tried to redistribute polarity.
+
+Neither was enough.
+
+The stored field had become self-sustaining.
+
+Toren looked at the evacuation road.
+
+Three thousand civilians were still crossing a steel bridge.
+
+Marek understood his expression.
+
+“No.”
+
+Toren smiled.
+
+“You repair things too.”
+
+“Not like this.”
+
+“Learn.”
+
+Toren stepped into the relay.
+
+Iron Orbit expanded inward.
+
+Every magnetic relationship in the catastrophe acquired one center.
+
+Him.
+
+Metal stopped tearing toward the bridge.
+
+The last refugee cart crossed.
+
+Then the relay failed completely.
+
+Marek survived because Toren threw him clear at the final moment.
+
+Toren did not return.
+
+When Lucy arrived, the foundry district was quiet.
+
+Marek sat beside the ruined relay holding a small metal bird.
+
+The repaired toy from the beginning of the campaign.
+
+He had found it among Toren's things.
+
+“He saved my soldiers too,” Marek said.
+
+Lucy could not answer.
+
+Ryn arrived moments later.
+
+There was no healing art to use.
+
+Another number had become an empty place.` ,
+
+10: String.raw`The Register moved again.
+
+Nobody wanted to watch.
+
+They did anyway.
+
+TOREN VAHL — IRON ORBIT.
+
+RANK #7 AT TIME OF DEATH.
+
+DIED CONTAINING A CASCADING CONCORD RELAY FAILURE AFTER THE CENTRAL CIRCUIT COLLAPSED.
+
+LIVES SAVED: ESTIMATE 4,800–6,200.
+
+The numbers shifted.
+
+Nyra Sen became #7.
+
+Boran Dusk #8.
+
+Elian Mor #9.
+
+Veska Ren #10.
+
+Kaio Draven #11.
+
+Seline Arq #12.
+
+Corven Ash #13.
+
+Tavia Moss #14.
+
+Rook Arden #15.
+
+Joren Quill #16.
+
+Luma Vey #17.
+
+Tessan Ri #18.
+
+Dalen Korr #19.
+
+And Iseul Venn became Rank #20.
+
+Iseul stared at the notice in the Black Mountain clinic.
+
+Then put it face down beneath a medicine tray.
+
+A junior healer asked if she was not going to celebrate.
+
+Iseul looked at the crowded beds.
+
+“After rounds.”
+
+She never did.
+
+Marek Voss formally withdrew the Fifth Banner from offensive operations the same day.
+
+Cyran ordered him detained.
+
+Seraph Kade delayed the order on procedural grounds.
+
+Mira Veyl laughed when she heard.
+
+The Iron Concord was beginning to fracture under the weight of people making choices inside it.
+
+Lucy stood on the ridge with Ryn.
+
+Below, First Gate prepared for another front.
+
+[[Lucy]] “We are hurting them.”
+
+[[Ryn]] “Yes.”
+
+[[Lucy]] “They're hurting us more.”
+
+He looked at the two memorial cords tied beside Open Gate's training field.
+
+Orun.
+
+Toren.
+
+[[Ryn]] “For now.”
+
+Far east, nine Banner beacons lit at once.
+
+Cyran Vol was done advancing carefully.
+
+The Concord Marshal began assembling the World Concord Array.`
 };
