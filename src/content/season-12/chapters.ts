@@ -83,7 +83,7 @@ Lucy heard the respect in his voice.
 
 It mattered.`,
 
-3: String.raw`Rank #3 became a wall.
+3: String.raw`Rank #3 became a storm wall.
 
 The mountain pass behind him held four thousand refugees.
 
@@ -95,17 +95,31 @@ They failed.
 
 For two hours the Third Sovereign fought without retreating one step.
 
-Every technique was defensive.
+Lightning did not fall randomly.
 
-Every strike redirected.
+He used it like a map.
 
-Every shattered boulder landed away from the evacuation road.
+One discharge cut an avalanche trigger before the rock shelf could break.
 
-When his sword finally broke, he used the hilt.
+Another crossed three buried metal anchors and fused them into useless slag.
 
-When the hilt broke, he used his hands.
+Magnetic pressure tore weapons sideways without pulling their owners over the cliff.
 
-The last refugee wagon crossed the far bridge just before sunset.
+Every burst was aimed away from the evacuation road.
+
+Every movement returned him to the same line across the pass.
+
+His enemies learned that speed could be defensive when the fastest man on the mountain used it to be everywhere the refugees needed him.
+
+Then the counter-formation grounded the open sky.
+
+External lightning stopped answering.
+
+Rank #3 did not leave.
+
+He fought with reinforced footwork, shoulders, elbows, and hands while the last wagons crossed behind him.
+
+The final refugee wagon reached the far bridge just before sunset.
 
 Only then did Rank #3 retreat.
 
@@ -469,7 +483,7 @@ Taewon stood at the center.
 
 Rank #2 carried one arm in a sling.
 
-Rank #3 leaned slightly on a broken sword remade as a cane.
+Rank #3 moved carefully, every fast step paid for by bruised ribs and exhausted internal circuits.
 
 Rank #4 still looked pale from poison.
 
