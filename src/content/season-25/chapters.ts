@@ -39,7 +39,7 @@ One number was not a person.` ,
 
 #1 Seo Taewon — White Falcon Sovereign. Wind and pressure. Battlefield mobility supreme.
 
-#2 Veyra Nox — Pale Serpent Sovereign. Poison and blood. Attrition and internal disruption supreme.
+#2 Veyra Nox — Viridian Serpent Sovereign. Poison and blood. Attrition and internal disruption supreme.
 
 #3 Dae Kiryun — Stormbreak Sovereign. Lightning and magnetism. Instantaneous destruction supreme.
 
@@ -62,7 +62,7 @@ Veska Ren — Puppet Wire Lord.
 Kaio Draven — River Fang Lord.
 Seline Arq — Ember Mercy Lord.
 Corven Ash — Hollow Reed Lord.
-Tavia Moss — Root Calamity.
+Tavia Moss — Thorn Regent.
 Rook Arden — World-Weight Lord.
 Joren Quill — Broken Tempo Lord.
 Luma Vey — Storm Lantern Lord.
