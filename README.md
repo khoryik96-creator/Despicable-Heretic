@@ -9,81 +9,94 @@ A modular TypeScript light-novel wiki and expandable reader for **The Despicable
 ## Current canon
 - **Male lead:** Ryn — *The Despicable Heretic*
 - **Female lead:** Princess Lucy
-- **Premise:** Ryn is an absurdly powerful hermit condemned as a villain by the Five Great Orthodox Sects. Lucy is a genuinely kind, funny royal princess who becomes his political equal, closest companion, romantic partner, and by Season 15 his fiancée.
-- **Power structure:** The Celestial Record Pavilion maintains the Heavenly Register of the world’s 100 strongest publicly known martial artists. Ryn cannot be meaningfully ranked.
-- **Current manuscript:** **15 seasons × 10 chapters = 150 full prose chapters**.
+- **Current relationship:** married by Season 20.
+- **Current manuscript:** **25 seasons × 10 chapters = 250 full prose chapters**.
+- **Heavenly Register:** roughly 100 publicly ranked monsters; the Top 20 now have named identities, affinities, specialties, and signature arts.
+- **Ryn:** remains unrankable and qualitatively above the formal Register rather than becoming ordinary Rank #1.
 
 ## Novel reader
-The Chapters tab uses expandable entries:
+- Every chapter is expandable full prose.
+- **Ryn** dialogue is sky-blue/teal.
+- **Lucy** dialogue is rose-pink.
+- Ryn’s named art **Still Sky** is highlighted in gold.
+- Persistent chapter bookmarks and **Continue Reading** use browser local storage.
+- Bookmarks/reading progress remain local to that browser/device.
+- Season 1 uses individual manuscript modules.
+- Seasons 2–25 use one `chapters.ts` manuscript bundle per season.
+- Metadata is split across `data.ts`, `data-06-15.ts`, and `data-16-25.ts`.
 
-- The collapsed row is a short teaser/synopsis.
-- Opening any chapter loads the complete light-novel prose.
-- **Ryn** is color-coded sky-blue/teal in the reader.
-- **Lucy** is color-coded rose-pink.
-- Their dialogue blocks use matching colors and speaker labels for easy reading on the dark background.
-- Ryn’s first revealed named art, **Still Sky**, appears in Season 13 and is highlighted in gold.
-- Every chapter has a **bookmark button**.
-- A dedicated **Bookmarks** tab shows all chapters saved on that browser/device.
-- Bookmarks persist through refreshes using browser local storage.
-- **Continue Reading** remembers the most recently opened chapter and jumps back to it.
-- Bookmarks and reading progress are local to that browser/device; they are not synced to a GitHub account.
-- Season 1 remains split into individual manuscript modules under `src/content/season-01/`.
-- Seasons 2–15 use one manuscript bundle per season under `src/content/season-XX/chapters.ts`.
-- Chapter metadata for Seasons 6–15 is kept separately in `src/features/chapters/data-06-15.ts` to preserve the modular canon structure.
+## Heavenly Register Top 20
+The modern Register still uses rank, but now also records matchup information, elemental affinity, range, resilience, adaptability, and role.
+
+### Five Sovereigns — #1 to #5
+1. **Seo Taewon — White Falcon Sovereign** — wind / pressure — *White Sky Dominion, Falcon Without Shadow, Ninefold Pressure Sea*.
+2. **Mei Xueyan — Crimson Venom Sovereign** — poison / blood — *Ten-Thousand Scarlet Veins, Poison That Remembers, Red Lotus Funeral*.
+3. **Lei Zhen — Thunder Burial Sovereign** — lightning — *Heaven-Splitting Thunderstep, Nine Graves of Lightning, Storm King Descends*.
+4. **Liang Yue — Moon-Tide Sovereign** — water / ice — *Silver Tide Reversal, Moon Beneath Frozen Water, Endless Winter Sea*.
+5. **Shen Rui — Vermilion Furnace Sovereign** — fire — *Vermilion Furnace Heart, Sunfall Palm, Ashes Before Dawn*.
+
+### Five Heavenly Pillars — #6 to #10
+6. **Han Seojin — Desert Crown Marquis** — sand / earth.
+7. **Mo Qingzhao — Golden Bell Marquis** — sound / vibration.
+8. **Arin Vale — Beautiful Sword Saint** — wind / sword qi.
+9. **Jin Seoryu — Black Iron Marquis** — metal.
+10. **Yun Haejin — Pale Widow Marquis** — poison / silk.
+
+### Ten Great Lords — #11 to #20
+11. **Gao Ren — Mountain-Eating Lord** — earth / body cultivation.
+12. **Sorin Kade — Glass Mist Lord** — mist / illusion.
+13. **Bai Luo — Grave Thread Lord** — thread / remote control.
+14. **Tae Mun — Blue Fang Lord** — water / beast-form qi.
+15. **Qiao Lian — Cinder Orchid Lord** — fire / healing.
+16. **Ilya Voss — Shadow Reed Lord** — concealment / shadow.
+17. **Nara Sun — Verdant Calamity** — wood / plant qi.
+18. **Kwon Mirae — Falling Star Lord** — heavy qi / pressure.
+19. **Chen Ruo — Laughing Blade Lord** — pure sword qi / broken rhythm.
+20. **Mina Soryeon — Rain Lantern Lord** — water / lightning.
+
+Full distinctions and signature arts are stored in `src/features/rankings/top20.ts` and displayed directly in the live Rankings tab.
 
 ## Story progression
 ### Seasons 1–5 — Opening Saga
-Lucy climbs the wrong mountain, discovers Ryn is the infamous Despicable Heretic, enters his life, drags him into the imperial and martial worlds, helps expose the limits of the Heavenly Register, defends him at his Orthodox trial, calls Black Mountain home, and finally kisses him.
+Lucy climbs the wrong mountain, discovers Ryn is the infamous Despicable Heretic, enters his life, drags him into the imperial and martial worlds, defends him at his Orthodox trial, calls Black Mountain home, and finally kisses him.
 
-### Seasons 6–10 — The World Beyond the Register
-- **S6 — The First Sovereign Comes to Tea:** Rank #1 Seo Taewon meets Ryn and becomes an ally. Ryn and Lucy awkwardly become an actual couple.
-- **S7 — The Man Behind the War:** Lucy dismantles Wei Cang’s manufactured-war network and discovers the name Hollow Heaven.
-- **S8 — The Princess Who Refused a Wedding:** Lucy defeats a political-marriage crisis without surrendering her agency or using Ryn as a threat.
-- **S9 — The City Missing from the Register:** Vagrant City reveals that powerful unrecorded masters exist outside the Pavilion’s system.
-- **S10 — The Mountain Everyone Mistook for a Kingdom:** refugees turn Black Mountain into a free community; Ryn and Lucy finally say “I love you.”
+### Seasons 6–10 — World Beyond the Register
+Seo Taewon enters the story, Lucy dismantles Wei Cang’s conspiracy, Vagrant City proves the Register is incomplete, and Black Mountain becomes a free community. Ryn and Lucy openly become a couple and say “I love you.”
 
 ### Seasons 11–15 — Hollow Heaven War
-- **S11 — The Six Houses Beyond the Register:** six ancient martial houses return and the public ranking world proves it still matters.
-- **S12 — When Sovereigns Bleed:** all Five Sovereigns are targeted simultaneously; Lucy becomes a strategic target in her own right.
-- **S13 — The Heavenless War:** Lucy leads the coalition while Ryn learns he cannot be everywhere. Ryn finally reveals **Still Sky**.
-- **S14 — The Empty Throne:** Mo Yejun, former Black Register Entry II, defeats Seo Taewon and challenges Ryn with the belief that the strongest person has a duty to rule.
-- **S15 — Home Is Not a Throne:** Lucy dismantles Hollow Heaven’s command structure, the Five Sovereigns fight together, Ryn defeats Mo without taking his throne, and Ryn proposes to Lucy while repairing the porch.
+The Six Ancient Houses return. Lucy leads a broad coalition, the Five Sovereigns prove they are genuine apex monsters, Ryn reveals **Still Sky**, and former Black Register Entry II **Mo Yejun — the Empty Throne** becomes Ryn’s ideological opposite. The saga ends with Ryn proposing to Lucy.
 
-## Romance progression
-The relationship is built around choice rather than ownership:
+### Seasons 16–20 — Eclipse Court
+The postponed wedding becomes the excuse to gather the Top 20, then a new enemy begins systematically testing their specialties.
+- **S16 — Twenty Monsters at a Wedding:** Top 20 personalities and distinctions enter the foreground; the wedding is postponed after coordinated attacks.
+- **S17 — The Eclipse Court:** ranks #13–20 receive focused counter-matchup battles.
+- **S18 — When the Great Lords Break:** ranks #6–12 receive showcase fights; five Crownless Kings appear.
+- **S19 — Five Sovereigns Under Eclipse:** every Sovereign gets a major elemental duel; the Court’s predictive Black Sun Array activates.
+- **S20 — The Sunless Emperor:** **Aurel Veyr** suppresses external elemental qi with **Eclipse Meridian**. The Top 20 adapt, Ryn reveals a second application of Still Sky, and Ryn/Lucy finally marry.
 
-- **S1–5:** irritation → trust → chosen companionship → first kiss.
-- **S6:** awkward post-kiss courtship and accidental official “boyfriend” status.
-- **S7:** Ryn learns to follow Lucy’s lead even when she is threatened.
-- **S8:** Lucy publicly chooses Ryn while refusing to become political marriage currency.
-- **S9–10:** domestic intimacy and shared home deepen; they say “I love you.”
-- **S11–13:** mature partnership under war; Lucy commands and Ryn deliberately trusts her decisions.
-- **S14:** Lucy explicitly rejects the idea that loving Ryn gives her ownership over his choices.
-- **S15:** their partnership becomes visible to the entire coalition and ends in engagement.
+### Seasons 21–25 — The Silent Age
+The oldest Black Register mystery becomes the next threat.
+- **Black Register Entry I:** **Yeon Mu-gyeol — the First Silence**.
+- Mu-gyeol believes cultivation itself creates permanent hierarchy and intends to sever humanity from ambient qi.
+- His **Five Severed Stars** suppress broad families of elemental expression: blood/poison, storms/lightning, water, earth, and wind/pressure.
+- The Top 20 are forced to train outside their strongest affinities instead of becoming one-technique characters.
+- The Quiet Gate eventually reduces ambient qi enough to affect even Ryn’s released external qi.
+- The final conflict is philosophical as much as physical: Lucy rejects both rule by the strong and forced equality through removing everyone’s choices.
+- The Heavenly Register survives but reforms into richer capability profiles rather than pretending a single number explains every matchup.
 
-## Wiki sections
-Overview · Chapters · Bookmarks · Characters · Villains · Factions · Rankings · Feats · Timeline · Lore · Global search
+## Power-system rules going forward
+- Top 20 fighters are all genuinely monstrous. Ryn being beyond them does **not** make them fodder.
+- Elements are expressions of internal qi and martial cultivation, not Western magic.
+- Compatibility matters: poison, wind, sand, fire, water, lightning, metal, sound, mist, threads, body cultivation, and other affinities can create favorable or terrible matchups.
+- Higher rank generally means greater overall threat, but specialized counters can create difficult fights.
+- Ryn should not resolve every battlefield. Ranked fighters, Lucy, and allied factions keep independent victories.
+- Ryn’s named techniques remain rare. **Still Sky** stays special instead of becoming something he uses every chapter.
 
-## GitHub Pages — no custom CI required
-The reading site is a static root-level `index.html` that reads canon and manuscript files directly from the repository. It does **not** need npm, Vite, or a custom GitHub Actions workflow to publish.
+## Romance rules
+- Romance continues after marriage rather than becoming background decoration.
+- Lucy retains full political, investigative, leadership, and martial agency.
+- Ryn protects without owning; Lucy loves without controlling.
+- Domestic comedy at Black Mountain remains part of the series even during large arcs.
 
-Publishing source:
-
-**Branch: `main` · Folder: `/(root)`**
-
-The repository includes `.nojekyll` so GitHub Pages serves the files directly.
-
-## TypeScript source
-The feature-based source remains under `src/features/`, with canon data separated from presentation code. Full novel text lives under `src/content/`.
-
-## Local development
-```bash
-npm install
-npm run dev
-```
-
-## Checks
-```bash
-npm run lint
-npm run build
-```
+## GitHub Pages
+Static root-level `index.html`, published from **`main` / `/(root)`**. No custom CI build is required.
