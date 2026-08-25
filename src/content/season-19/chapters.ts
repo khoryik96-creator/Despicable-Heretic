@@ -1,13 +1,13 @@
 export const chapterBodies: Record<number,string> = {
-1:String.raw`Shen Rui entered the valley at sunrise.
+1:String.raw`Kassian Ro entered the valley at sunrise.
 
 The Ash King was already there.
 
 Heat distorted the mountains between them.
 
-“Vermilion Furnace Sovereign,” the King said. “Show me the fire everyone fears.”
+“Ash-Furnace Sovereign,” the King said. “Show me the fire everyone fears.”
 
-Shen Rui rolled one shoulder.
+Kassian rolled one shoulder.
 
 “Everyone?”
 
@@ -19,32 +19,32 @@ With heat.
 
 Stone softened. Grass curled black. Air itself thickened.
 
-Then Rui’s Vermilion Furnace Heart opened.
+Then Kassian’s Furnace Body opened.
 
 The Ash King answered with white fire that consumed oxygen instead of fuel.
 
 Their clash melted the cliff face into sheets of glass.
 
-Hours later, Shen Rui emerged burned, bleeding, and smiling.
+Hours later, Kassian emerged burned, bleeding, and smiling.
 
 He had won by stepping into the hotter flame.
 
 That was Rank Five.` ,
 2:String.raw`The Drought King erased water from a river valley.
 
-Liang Yue stood alone in the dry riverbed.
+Maren Sol stood alone in the dry riverbed.
 
 “Your art requires water,” he said.
 
-Liang Yue looked at the blood mist hanging around his shoulders.
+Maren looked at the blood mist hanging around his shoulders.
 
 “No,” she replied. “Your body requires water.”
 
-Silver Tide Reversal moved.
+Winter Current Reversal moved.
 
 The mist twisted.
 
-The Drought King’s own technique became a current under Liang Yue’s control.
+The Drought King’s own technique became a current under Maren’s control.
 
 She could have pulled harder.
 
@@ -57,7 +57,7 @@ Precision over cruelty.
 Power under restraint.
 
 That was Rank Four.` ,
-3:String.raw`Lei Zhen and the Iron Sky King met under thunderclouds.
+3:String.raw`Dae Kiryun and the Iron Sky King met under thunderclouds.
 
 No one saw the first exchange.
 
@@ -65,13 +65,13 @@ They heard it.
 
 Three provinces away, windows rattled.
 
-Lei Zhen vanished into blue-white light.
+Kiryun vanished into blue-white light.
 
-Heaven-Splitting Thunderstep.
+Hundred Lightning Steps.
 
 The Iron Sky King answered by grounding lightning through chains buried beneath the battlefield.
 
-Lei Zhen changed angle mid-step.
+Kiryun changed angle mid-step.
 
 Impossible for most lightning arts.
 
@@ -79,9 +79,9 @@ Not for him.
 
 He appeared above the King instead of beside him.
 
-Nine Graves of Lightning descended.
+Iron-Sky Discharge descended.
 
-Nine pillars struck in sequence, each forcing the King’s defenses lower until the tenth strike came from Lei Zhen’s fist.
+Nine branching pillars struck in sequence, each forcing the King’s defenses lower until the final impact came from Kiryun’s fist.
 
 The sky went silent afterward.` ,
 4:String.raw`Bone Saint had no blood-based qi.
@@ -90,15 +90,15 @@ No circulating poison pathways.
 
 No ordinary meridian rhythm.
 
-He had been designed to fight Mei Xueyan.
+He had been designed to fight Veyra Nox.
 
-The Crimson Venom Sovereign smiled when she understood.
+The Pale Serpent Sovereign smiled when she understood.
 
 Then she put the poison away.
 
 Bone Saint laughed.
 
-Mei stepped forward and hit him in the throat.
+Veyra stepped forward and hit him in the throat.
 
 Again in the ribs.
 
@@ -110,7 +110,7 @@ She had spent decades becoming the greatest poison cultivator alive.
 
 She had spent longer learning martial arts before poison ever entered the conversation.
 
-When Bone Saint fell, Mei crouched beside him.
+When Bone Saint fell, Veyra crouched beside him.
 
 “Never confuse my specialty,” she whispered, “with my foundation.”` ,
 5:String.raw`Seo Taewon’s battle happened mostly above the clouds.
@@ -121,7 +121,7 @@ Every wind blade Taewon formed was split before it reached him.
 
 So Taewon stopped throwing blades.
 
-White Sky Dominion expanded.
+Sky Has No Walls expanded.
 
 The atmosphere changed.
 
@@ -137,7 +137,7 @@ First Seat fell three thousand feet in one breath.
 
 Taewon appeared below him.
 
-Falcon Without Shadow.
+Falcon Crossing Ten Miles.
 
 One palm struck upward.
 
@@ -146,10 +146,10 @@ The clouds opened in a perfect ring.` ,
 
 After that week, the phrase disappeared.
 
-Shen Rui had turned mountains to glass.
-Liang Yue had weaponized an enemy’s own drought.
-Lei Zhen had fought inside a thunderstorm he created by moving.
-Mei Xueyan had defeated her perfect counter without poison.
+Kassian Ro had turned mountains to glass.
+Maren Sol had weaponized an enemy’s own drought.
+Dae Kiryun had fought inside a thunderstorm he created by moving.
+Veyra Nox had defeated her perfect counter without poison.
 Seo Taewon had used the atmosphere as a weapon.
 
 They were not weak because Ryn existed.
@@ -169,9 +169,9 @@ Lucy read the revised Pavilion notice.
 
 Every ranked technique cast beneath it produced a prediction shadow.
 
-Shen Rui’s flames bloomed half a breath before his palms moved.
-Liang Yue’s counters appeared as silver lines in the air.
-Lei Zhen’s destination flashed before he vanished.
+Kassian’s flames bloomed half a breath before his palms moved.
+Maren’s counters appeared as silver lines in the air.
+Kiryun’s destination flashed before he vanished.
 
 The Top Twenty started losing exchanges they should have won.
 
@@ -188,11 +188,11 @@ Her generals became nervous.
 They had learned that smile meant someone else’s plan was about to suffer.` ,
 8:String.raw`[[Lucy]] “Rank Six, healers.”
 
-Han Seojin stared at her.
+Sael Vardon stared at her.
 
 [[Lucy]] “Rank Fifteen, frontline breach.”
 
-Qiao Lian blinked.
+Seline Arq blinked.
 
 [[Lucy]] “Rank Nine, no weapons. Rank Twelve, direct combat. Rank Eighteen, courier duty.”
 
@@ -204,10 +204,10 @@ The Array predicted known behavior.
 
 So Lucy made experts behave incorrectly on purpose.
 
-Han used sand to carry medical supplies.
-Qiao burned open armored formations.
-Jin Seoryu fought barehanded.
-Sorin Kade punched a man.
+Sael used sand to carry medical supplies.
+Seline burned open armored formations.
+Toren Vahl fought barehanded.
+Elian Mor punched a man.
 
 The predictive shadows became nonsense.
 
