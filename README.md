@@ -22,6 +22,11 @@ The Chapters tab uses expandable entries:
 - **Lucy** is color-coded rose-pink.
 - Their dialogue blocks use matching colors and speaker labels for easy reading on the dark background.
 - Ryn’s first revealed named art, **Still Sky**, appears in Season 13 and is highlighted in gold.
+- Every chapter has a **bookmark button**.
+- A dedicated **Bookmarks** tab shows all chapters saved on that browser/device.
+- Bookmarks persist through refreshes using browser local storage.
+- **Continue Reading** remembers the most recently opened chapter and jumps back to it.
+- Bookmarks and reading progress are local to that browser/device; they are not synced to a GitHub account.
 - Season 1 remains split into individual manuscript modules under `src/content/season-01/`.
 - Seasons 2–15 use one manuscript bundle per season under `src/content/season-XX/chapters.ts`.
 - Chapter metadata for Seasons 6–15 is kept separately in `src/features/chapters/data-06-15.ts` to preserve the modular canon structure.
@@ -57,7 +62,7 @@ The relationship is built around choice rather than ownership:
 - **S15:** their partnership becomes visible to the entire coalition and ends in engagement.
 
 ## Wiki sections
-Overview · Chapters · Characters · Villains · Factions · Rankings · Feats · Timeline · Lore · Global search
+Overview · Chapters · Bookmarks · Characters · Villains · Factions · Rankings · Feats · Timeline · Lore · Global search
 
 ## GitHub Pages — no custom CI required
 The reading site is a static root-level `index.html` that reads canon and manuscript files directly from the repository. It does **not** need npm, Vite, or a custom GitHub Actions workflow to publish.
