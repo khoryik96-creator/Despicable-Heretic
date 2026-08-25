@@ -59,7 +59,7 @@ This reduced meetings by a remarkable amount.
 
 Taewon arrived with three.
 
-Rank #7 arrived with two.
+Orun Bale, Rank #7, arrived with two.
 
 An imperial minister arrived with none and was sent outside to think.
 
@@ -77,7 +77,11 @@ Taewon looked at the untouched bowl beside her.
 
 “He is correct.”
 
-[[Lucy]] “I preferred when you two were suspicious of each other.”
+Orun tapped two fingers against the table, making the minister’s abandoned inkstone hum in agreement.
+
+Lucy pointed at him.
+
+[[Lucy]] “Do not encourage them.”
 
 Ryn placed food directly over the troop manifest.
 
@@ -93,27 +97,49 @@ The war room functioned better afterward.`,
 
 3: String.raw`Rank #10 held Red River with eight hundred fighters against six thousand.
 
-Her name was Mirei Sol, the Silver Bell Marquis.
+Her name was Nyra Sen.
 
-Hollow Heaven expected her to retreat.
+The Pavilion called her the Silent Loom.
 
-Instead she removed the bridge.
+Hollow Heaven expected a physically fragile thread specialist to retreat from an open river crossing.
 
-Not by destroying it.
+Nyra looked at the bridge, the boats, the wet stone towers, and the thousands of exposed anchor points an ordinary person would never notice.
 
-By ringing the bell at her waist once.
+Then she smiled.
 
-The river rose into a curved wall, lifted the entire bridge from its foundations, and carried it upstream.
+White silk crossed the river before the enemy did.
 
-The enemy army stopped on the wrong bank.
+Not one grand net.
 
-Then Mirei attacked.
+Thousands of separate lines.
 
-For three hours, Silver Bell resonance shattered formations before they could cross.
+Some caught arrow shafts in flight.
+
+Some tightened around formation flags.
+
+Some connected bridge railings to abandoned siege hooks and turned the entire crossing into a geometry problem only Nyra understood.
+
+When the first assault formation charged, she pulled two fingers apart.
+
+The bridge did not collapse.
+
+It twisted just enough that every prepared formation line lost alignment.
+
+Then venom needles traveled along silk faster than runners could carry commands.
+
+Not killing doses.
+
+Numb hands.
+
+Locked elbows.
+
+Legs that stopped trusting the ground.
+
+For three hours, the Silent Loom kept six thousand fighters on the wrong side of Red River without allowing the battle to become a massacre.
 
 By sunset, Hollow Heaven withdrew.
 
-Mirei collapsed immediately afterward.
+Nyra collapsed immediately afterward.
 
 The report reached Lucy at midnight.
 
@@ -129,7 +155,13 @@ Ryn read it over her shoulder.
 
 [[Ryn]] “I am.”
 
-Lucy smiled.
+Lucy underlined Nyra Sen.
+
+She knew another name now.
+
+Not the person yet.
+
+That would come later.
 
 Every time Ryn respected someone below him, the world felt larger rather than smaller.
 
@@ -235,9 +267,9 @@ Which was exactly why it mattered.`,
 
 Taewon took the western front.
 
-Mirei Sol took Red River.
+Nyra Sen held Red River.
 
-Rank #7 took the bridge network.
+Orun Bale took the bridge network.
 
 Lady Sen took refugee corridors.
 
@@ -465,11 +497,13 @@ Rank #11 struck from the side.
 
 One step redirected the attack into empty air.
 
-Rank #7 raised his spear.
+Orun Bale, Rank #7, raised the same bronze spear he had carried at Stonewake Bridge.
 
 The stranger caught the shaft.
 
 The bronze weapon shattered from tip to base.
+
+Orun stared at the fragments for half a heartbeat.
 
 Silence swallowed the hall.
 
