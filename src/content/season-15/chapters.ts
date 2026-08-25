@@ -243,23 +243,37 @@ Lucy lowered one flag.
 
 Five figures moved.
 
-Rank #5 struck first.
+Lucy knew their names from reports long before she knew any of them as people.
 
-A golden palm print crossed the battlefield and broke three assault formations.
+Rank #5 Kassian Ro struck first.
 
-Rank #4 followed with a storm of cutting qi that removed every weapon from two hundred soldiers without taking their hands.
+The Ash-Furnace Sovereign opened one palm and the air over three assault formations turned furnace-hot. Armor glowed. Formation ink blistered from stone. Kassian drove the heat upward at the last instant so the soldiers inside collapsed from shock rather than burning alive.
 
-Rank #3 stood at the center and turned enemy force aside like a mountain redirecting rivers.
+Rank #4 Maren Sol followed.
 
-Rank #2 disappeared.
+Water rose from broken irrigation channels and battlefield mud in silver bands. The Abyssal Tide Sovereign did not throw it like a wave. She redirected incoming arrows, spears, and charging bodies until Hollow Heaven’s own momentum tangled its front line.
 
-Seconds later every Hollow Heaven command banner on the eastern field fell at once.
+Rank #3 Dae Kiryun vanished.
 
-Then Taewon stepped forward.
+Thunder arrived after him.
+
+Blue-white current crossed the field in impossible angles as the Stormbreak Sovereign struck formation anchors, relay officers, and siege mechanisms faster than commands could reach them. Metal buckled sideways under magnetic force. Nobody watching could agree where he had actually stood.
+
+Rank #2 Veyra Nox walked.
+
+That was somehow worse.
+
+The Viridian Serpent Sovereign released no visible cloud and killed no one. She touched one fleeing commander, flicked two needles into another, and let an almost invisible blood-disruption current pass through a captured command flag. Seconds later every officer linked to the eastern battle formation lost fine control of their limbs at once.
+
+Then Seo Taewon stepped forward.
 
 The sky split.
 
-The five attacked as one.
+Wind and pressure folded the broken battlefield into lanes only the coalition could safely use.
+
+Five apex fighters.
+
+Five completely different answers to the same army.
 
 For years people had asked which Sovereign was strongest.
 
@@ -285,7 +299,15 @@ He glanced at her.
 
 [[Lucy]] “Exactly.”
 
-Below them, five legends reminded the world why rankings had meaning.`,
+Below them, Kassian was already shouting at someone for standing too close to a burning supply cart. Maren was redirecting runoff away from the hospital. Kiryun had vanished toward a second breach. Veyra was kneeling beside an enemy soldier to reverse her own toxin. Taewon looked upward as though he had heard Lucy from half a battlefield away.
+
+Lucy knew the names.
+
+She still did not know the people.
+
+That would come later.
+
+For now, five legends reminded the world why rankings had meaning.`,
 
 6: String.raw`Bracken’s worst day began when a formation bolt struck the vegetable garden.
 
