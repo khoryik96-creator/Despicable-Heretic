@@ -3,7 +3,7 @@ export interface Technique {
   name: string;
   user: string;
   tier: 'Named Skill' | 'Transcended' | 'Supreme' | 'Ultimate';
-  category: 'Offense' | 'Defense' | 'Healing' | 'Passive' | 'Movement' | 'Counter' | 'Control';
+  category: 'Offense' | 'Defense' | 'Healing' | 'Passive' | 'Movement' | 'Counter' | 'Control' | 'Domain';
   description: string;
   reveal?: 'Revealed' | 'Unrevealed' | 'Sealed';
   revealedIn?: string;
