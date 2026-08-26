@@ -1,331 +1,299 @@
 # The Despicable Heretic — Canon Consistency Audit
 
-Last major audit: 2026-08-25
+Last major audit: 2026-08-27
 
-This file is the continuity guardrail for future writing. **Manuscript prose is primary canon.** Metadata, wiki pages, rankings, lore, character cards, roadmaps, and the static reader must follow it rather than inventing alternate versions.
+The **manuscript prose is primary canon**. Rankings, wiki data, README, roadmaps, and the static reader must follow the prose rather than inventing alternate versions.
 
 ## Core invariants
-- Ryn is **The Despicable Heretic**, Black Register Entry III, and **UNRANKABLE**.
-- Princess Lucy remains a co-protagonist with political, investigative, strategic, martial, emotional, institutional, and romantic agency.
-- Ryn and Lucy marry in **Season 25** and remain an active married partnership afterward.
-- Black Mountain is a home/free township and later Open Gate’s birthplace, **not Ryn’s kingdom**.
-- The Heavenly Register remains prestigious. Ryn exceeding it does not make ranked fighters fodder.
-- Seo Taewon remains alive and **Rank #1 through Season 45**.
-- Compatibility matters; one hostile matchup or defeat does not automatically rewrite overall rank.
-- Important fighters are introduced as people before the plot depends on them as matchup pieces.
-- Elements are qi/cultivation expressions, not Western magic.
-- Fast pace means momentum, not abbreviated summary prose.
-- Deaths create grief, vacancies, succession, and institutional consequences. They are not reset away.
 
-## Ryn formal skill system
-Ryn has exactly **10 formal skills**. Existing skills may deepen, gain movements, or promote tier; this is preferred over endless new named-technique accumulation.
+- **Ryn** is The Despicable Heretic, Black Register Entry III, and UNRANKABLE.
+- **Lucy** is co-protagonist, Ryn’s wife, First Steward of Open Gate, and from S53 onward **Heavenly Register Rank #5**.
+- Ryn and Lucy marry in S25 and remain an active married couple afterward.
+- Black Mountain / Open Gate is never Ryn’s kingdom or an automatic world government.
+- Open Gate may become stronger than older institutions without gaining a moral or legal right to rule because of strength.
+- Ranked fighters remain genuine monsters even when Ryn exceeds them.
+- Elements remain qi/cultivation expressions, not Western magic.
+- True death is permanent. Ryn’s healing cannot resurrect Kassian, Orun, Toren, Maren, Han, Taewon, or anyone else whose life has fully ended.
 
-Allowed ranks:
-- **◆ Named Skill**
-- **✦ Transcended**
-- **✧ Supreme**
-- **★ Ultimate**
+## Published manuscript
 
-### Current arsenal after S45
-1. **Returning Breath of the Mountain ✦ Transcended — Healing**
-   - Began as a Named Skill.
-   - Revealed before/around the intercontinental war.
-   - Evolves in S42 into **Hundred Living Breaths**, allowing large-scale simultaneous stabilization/healing.
-   - Can repair severe wounds, poisoned circulation, and damaged meridians.
-   - **Cannot resurrect the dead. This limit is absolute.**
-2. **Empty-Hand Measure ✦ Transcended — Counter**
-   - Began as a Named Skill.
-   - Evolves in S39 into **Measure Before Contact**, reading structure, force, and intent before physical contact.
-3. **Step Between Footfalls ◆ Named — Movement**
-   - Revealed in the intercontinental saga.
-   - Develops a limited shared-interval application through Lucy, but remains Named tier after S45.
-4. **Still Sky ✦ Transcended — Control**
-   - First revealed in S13.
-   - Later develops **Living Exemption**, letting Ryn distinguish exactly what may continue moving inside the stopped field.
-5. **Horizon Without Distance ✦ Transcended — Movement**
-   - Revealed in S43.
-   - Develops **Shared Passage**, allowing other people to cross a temporary impossible-distance path.
-6. **Ten Thousand Roads Return ✦ Transcended — Counter**
-   - Revealed in S33.
-   - Develops **One Road Home**, allowing returned force to be routed toward a chosen safe destination instead of automatically back into people.
-7. **Unbroken Vessel ✦ Transcended — Passive**
-   - Revealed before S45.
-   - Develops **Inner World**, a self-contained internal circulation that can operate without ambient qi while active.
-8. **No Heaven Above Me ✧ Supreme — Control**
-   - **Only revealed Supreme.**
-   - First revealed in S34.
-9. **Unwritten Law ✧ Supreme — Counter**
-   - **SEALED. Do not reveal without explicit approval.**
-10. **The Last Quiet Beneath Heaven ★ Ultimate — Offense**
-   - **HARD LOCKED.**
-   - Do not use, reveal, explain, tease its true activation, scale, effect, cost, or visual manifestation without explicit approval.
-
-### Confluence
-By S45 Ryn develops **Confluence**: the ability to operate several mastered arts together without them interfering. It is **not an eleventh formal skill** and does not change the ten-skill cap.
-
-### Reveal guardrails
-- Named/Transcended skills may reveal naturally when earned.
-- Exactly **one Supreme is currently revealed: No Heaven Above Me**.
-- No second Supreme until explicit approval.
-- Ultimate remains unreleased until explicit approval.
-- Casual feats such as pebbles, ladles, teacup lids, broom work, farming tools, and effortless formation taps remain casual feats unless explicitly promoted into canon skills.
-- The static reader must show a visible tier marker whenever a formal Ryn skill is named in prose.
+- **55 seasons**.
+- **10 chapters each**.
+- **550 full prose chapters**.
+- S1 individual chapter files.
+- S2–55 season manuscript bundles.
+- S26 onward reader cards are derived directly from manuscript files.
 
 ## Relationship timeline
-- S1–S4: trust, attraction, teasing, emotional reliance.
-- S5: Black Mountain becomes Lucy’s explicit home; first mutual kiss.
-- S6–S10: actual couple; they say they love each other.
-- S11–S15: partnership deepens through Hollow Heaven; Ryn proposes at end of S15.
-- S16–S24: long engagement through family, war, grief, reform, and deliberate wedding delay.
-- S20: **no wedding**; they leave the date blank and write **WHEN READY**.
-- S25: full wedding season; they marry beneath the old cedar.
-- S26–S45: married life continues through institution-building and world-scale crises. Romance remains present through domestic humor, disagreement, trust, physical affection, and shared leadership.
-- S43: their largest married conflict so far occurs when grief makes Ryn overprotective. Lucy forces him to confront that love does not grant ownership over other people’s choices.
 
-## Major rank/death continuity
-### Kassian Ro
-- Canonical unnamed Rank Five/Fifth Sovereign from S5 is **Kassian Ro**.
-- S16 is a personal reintroduction, not their first physical encounter.
-- Dies as Rank #5 in S19 after protecting populated villages from the Eclipse heat catastrophe.
+- S1–5: trust → attraction → first kiss.
+- S6–10: actual couple → “I love you.”
+- S11–15: mature partnership → proposal.
+- S16–24: long engagement through family, war, grief, reform.
+- S20: explicitly **NO WEDDING**; WHEN READY.
+- S25: full wedding season; Ryn and Lucy marry.
+- S26–55: married partnership remains visible through affection, arguments, domestic comedy, shared institution-building, grief, training, and independent work.
+- Lucy’s marriage never reduces her political or martial agency. She eventually reaches Top-Five martial capability.
 
-### Season 20 succession
-From S20 Ch3 onward:
-1. Seo Taewon
-2. Veyra Nox
-3. Dae Kiryun
-4. Maren Sol
-5. Sael Vardon
-6. Orun Bale
-7. Lysandra Keir
-8. Toren Vahl
-9. Nyra Sen
-10. Boran Dusk
-11. Elian Mor
-12. Veska Ren
-13. Kaio Draven
-14. Seline Arq
-15. Corven Ash
-16. Tavia Moss
-17. Rook Arden
-18. Joren Quill
-19. Luma Vey
-20. Tessan Ri
+## Major Heavenly Register outcomes
 
-Tessan is introduced at #21 before entering #20.
+### Deaths
+- Kassian Ro — #5 — dies S19.
+- Orun Bale — #6 at death — dies S29.
+- Toren Vahl — #7 at death — dies S33.
+- Maren Sol — #4 — dies S42 after holding a World Meridian pressure rupture long enough for ~2.7 million people to evacuate.
+- Seo Taewon — #1 — dies S52 fighting Kaiven Rhoss on Skyglass Plateau.
 
-### Orun Bale
-- Holds #6 after the S20 succession.
-- Dies in S29 during the fall of Azure Dragon Hall, preserving evacuation routes through resonance.
-- Dalen Korr is introduced before his later entry into the Top 20.
+### Retirements
+- Dalen Korr — #18 — survives S48 but loses safe Top-20 use of Six-Anchor Transfer; retires into Wayfinder Hall teaching.
+- Rook Arden — #14 — survives S49 but cannot safely sustain World-Weight Field at ranked scale; retires into Open Gate defensive teaching.
 
-### Toren Vahl
-- Holds #7 at the time of death after Orun’s succession shift.
-- Dies in S33 containing a cascading Concord relay failure after helping civilians and soldiers escape.
-- Iseul Venn is introduced before later entering the Top 20.
+Retired does **not** mean deceased. Reader badges should distinguish them.
 
-### Maren Sol
-- Holds **Rank #4** until S42.
-- Receives increased presence as an Open Gate instructor/defensive mentor before death.
-- Dies holding a World Meridian pressure rupture long enough for roughly **2.7 million** people to evacuate.
-- Ryn arrives seconds too late; Hundred Living Breaths cannot resurrect her.
-- The Pavilion deliberately leaves **#4 VACANT** for several chapters rather than erasing the death immediately.
+## Taewon continuity
 
-### Season 43 succession — current roster
-1. **Seo Taewon — White Falcon Sovereign**
-2. **Veyra Nox — Viridian Serpent Sovereign**
-3. **Dae Kiryun — Stormbreak Sovereign**
-4. **Sael Vardon — Dune Regent**
-5. **Lysandra Keir — Dawn Edge**
-6. **Nyra Sen — Silent Loom**
-7. **Boran Dusk — Stone Maw Lord**
-8. **Elian Mor — Mirage Glass Lord**
-9. **Veska Ren — Puppet Wire Lord**
-10. **Kaio Draven — River Fang Lord**
-11. **Seline Arq — Ember Mercy Lord**
-12. **Corven Ash — Hollow Reed Lord**
-13. **Tavia Moss — Thorn Regent**
-14. **Rook Arden — World-Weight Lord**
-15. **Joren Quill — Broken Tempo Lord**
-16. **Luma Vey — Storm Lantern Lord**
-17. **Tessan Ri — Flow-Script Lord**
-18. **Dalen Korr — Anchor Chain Lord**
-19. **Iseul Venn — Echo Mercy Lord**
-20. **Sorin Vale — Crossroad Lord**
+Seo Taewon remains alive and Rank #1 from his introduction through S52C9.
 
-Sorin is introduced and developed for multiple seasons before entering the Register. He must never read like an unexplained replacement.
+His death must never be described as a cheap stomp:
+- Kaiven has decades of anti-Register preparation and has already fought through the upper Register.
+- Taewon dominates substantial parts of the duel.
+- He forces Hundred Graves Scripture fully open.
+- He permanently breaks three internal partitions.
+- Thousand Lantern observers record the full-load architecture.
+- A real Broken Ledger emergency involving survey workers pulls Ryn from the extraction anchor for **23 seconds**.
+- Taewon chooses to drive Kaiven away from the civilians rather than retreat.
+- Ryn returns after Taewon is truly dead; therefore healing and Open Gate Sanctuary cannot resurrect him.
+- Taewon’s final recording: do not make Rank #1 sacred because he died holding it.
 
-### Taewon invariant
-Seo Taewon remains alive and **#1** through S45. His independent accomplishments include adapting to hostile suppression/severance matchups and defeating **Seyra Khann — The Red Gale** in S44 after a difficult wind-pressure duel.
+## Current Heavenly Register — end S55
 
-## Reader rank-badge rules
-- Full names and normal shortened references receive rank badges throughout the novel.
-- Badges reflect **the rank held in that chapter**, not current roster retroactively.
-- Explicit in-prose rank statements take priority in transition chapters.
-- Posthumous references after death use the historical rank plus **†** where supported.
-- Tessan, Dalen, Iseul, and Sorin show their pre-promotion numbers before the relevant succession.
-- Maren shows #4 while alive and #4 † in posthumous contexts.
-- Seo Taewon remains #1 everywhere.
-- Bookmark and Continue Reading localStorage keys remain `dhBookmarksV2` and `dhLastReadV2`.
+1. Veyra Nox — Viridian Serpent Sovereign
+2. Dae Kiryun — Stormbreak Sovereign
+3. Sael Vardon — Dune Regent
+4. Lysandra Keir — Dawn Edge
+5. Princess Lucy — **First Steward**
+6. Nyra Sen — Silent Loom
+7. Boran Dusk — Stone Maw Lord
+8. Meira Sun — The Moonless Arrow
+9. Elian Mor — Mirage Glass Lord
+10. Veska Ren — Puppet Wire Lord
+11. Kaio Draven — River Fang Lord
+12. Seline Arq — Ember Mercy Lord
+13. Corven Ash — Hollow Reed Lord
+14. Tavia Moss — Thorn Regent
+15. Joren Quill — Broken Tempo Lord
+16. Luma Vey — Storm Lantern Lord
+17. Tessan Ri — Flow-Script Lord
+18. Iseul Venn — Echo Mercy Lord
+19. Sorin Vale — Crossroad Lord
+20. Kesh Ardan — Glassfire Lord
 
-## Open Gate canon
-Open Gate becomes a genuine institution, but it must not become a cult of Ryn, royal arm, automatic replacement hegemony, or “Sixth Great Sect.”
+### S53 transition
+- S52C10–S53C2: #1 is vacant after Taewon’s death.
+- S53C3: Veyra becomes #1; the remaining active roster shifts upward; #20 is temporarily vacant.
+- S53C7: Lucy is formally assessed and placed at #5. She refuses a new Sovereign title and keeps **First Steward**.
+- S53C8: former #7 Meira Sun returns to public ranking at #8. Asha Mire moves outside the Top 20.
 
-### Founders / dual authority
-- **Mountain Teacher — Ryn:** martial doctrine, foundations, training standards, existential defense.
-- **First Steward — Lucy:** diplomacy, finance, recruitment, discipline systems, law, logistics, intelligence, branch charters, administration.
-- Raw strength does not automatically grant political authority.
-- Ryn and Lucy’s marriage does not merge their roles into one unquestionable ruling office.
+## Lucy’s Top-Five growth
+
+Lucy’s power growth is **earned but accelerated** by Spring of the Open Gate.
+
+The passive provides:
+- continuous micro-healing;
+- cleaner circulation;
+- reduced accumulated training injury;
+- faster recovery;
+- reduced qi deviation;
+- better ability to sustain intense training.
+
+It does **not** give Lucy Ryn’s judgment, techniques, decisions, or a borrowed pool of his strength. Her retained capability outside the aura remains her own.
+
+Major progression:
+- S46–48: reaches Pillar trajectory.
+- S49: upper-Pillar / possible Top-Ten range.
+- S50: spars seriously with Sael #4 and reaches his position.
+- S51: draws with / pressures Lysandra in training contexts and becomes clearly Top-Five-comparable.
+- S53: formal assessment includes Veyra, Kiryun, Sael, Lysandra, and restored former #4 Teren. Lucy fights Lysandra for 119 exchanges and narrowly loses; the Pavilion assigns **#5**.
+
+## Open Gate hierarchy
+
+### Founders
+- **Mountain Teacher — Ryn:** martial doctrine, training standards, existential defense.
+- **First Steward — Lucy:** law, discipline, intelligence, diplomacy, finance, recruitment, branch charters, wartime coordination.
+
+Neither role automatically controls the other.
 
 ### Four Great Halls
-- **Mountain Hall:** cultivation, combat, martial foundations.
-- **Wayfinder Hall:** formations, logistics, rescue, engineering, movement.
-- **Mercy Hall:** medicine, healing, civilian protection.
-- **Steward Hall:** intelligence, strategy, diplomacy, law, command.
+- Mountain Hall — combat / cultivation / fundamentals.
+- Wayfinder Hall — formations / logistics / engineering / rescue / movement.
+- Mercy Hall — medicine / healing / civilian protection.
+- Steward Hall — strategy / intelligence / law / diplomacy / administration.
 
 ### Disciple progression
-**Guest Disciple → Outer Gate Disciple → Inner Gate Disciple → Core Gate Disciple**.
+Guest → Outer Gate → Inner Gate → Core Gate.
 
-Leadership/operational offices are separate:
-- **Gate Warden** — elite responsibility role.
-- **Gatekeeper** — may establish an authorized Open Gate branch elsewhere.
-- **Hall Master** — leads one of the Four Halls.
+### Nine Gate Warden seats
+Road · Wall · Hand · Eye · Hearth · River · Seal · Mercy · Empty Gate.
 
-### Nine Gate Warden Seats
-Functional rather than strength-ranked:
-- Road
-- Wall
-- Hand
-- Eye
-- Hearth
-- River
-- Seal
-- Mercy
-- Empty Gate
+Functional responsibilities, **not strength rankings**.
 
-Known/earned by S45 include:
-- **Sorin Vale — Warden of the Empty Gate**
-- **Iseul Venn — Warden of Mercy / Mercy Hall Master**
-- **Nemea Cors — Warden of the Hearth**
-- **Mira Veyl — Warden of the Eye**
-- **Kesh Ardan — Warden of the Hand**
+### Gatekeepers
+May establish outside branches under the charter. Branches are not personal property.
 
-### First Gate
-The original cohort remains historically known as **The First Gate**. Being first does not automatically confer permanent authority.
+## Open Gate strength by S55
 
-### Gatekeeper
-By S45 **Ivara Pell** becomes the first Gatekeeper and establishes the first permanent foreign Open Gate branch in Varkesh. Branch doctrine begins from the principle: **NO ONE HERE BELONGS TO THE MOUNTAIN.**
+Current Top-20 Open Gate members/permanent teachers:
+- Lucy #5.
+- Meira Sun #8.
+- Iseul Venn #18.
+- Sorin Vale #19.
+- Kesh Ardan #20.
 
-### Martial philosophy
-Open Gate does not teach copies of Ryn’s personal arts. Ryn teaches principles and asks disciples to derive their own answers.
+Additional apex members:
+- Teren Ashval — restored former #4, refuses current ranking.
+- Oris Thane — former #9, unranked Mercy Hall physician/theorist.
+- Dalen Korr — retired former #18, Wayfinder instructor.
+- Rook Arden — retired former #14, defensive instructor.
+- Ryn — UNRANKABLE.
 
-Core doctrine: **No inherited answer. Understand the question.**
+Future Open Gate generations may continue entering or replacing Heavenly Register positions. Do not artificially cap the sect merely to preserve the old order.
 
-## Great Sect continuity
-- Original Five Great Orthodox Sects: Heavenly Sword Palace, Nine Suns Monastery, Jade Moon Sect, Azure Dragon Hall, Supreme Dao Sanctuary.
-- **Azure Dragon Hall falls militarily** during the Iron Concord invasion. Survivors persist through successor communities/networks rather than restoring the old Hall unchanged.
-- **Jade Moon Sect dissolves** after collaboration, internal schism, and civil fracture. Its clinics and survivors persist through successor institutions.
-- The phrase “Five Great Sects” becomes historical shorthand rather than a literally current five-institution bloc.
-- Remaining institutions may continue to evolve, split, cooperate, or fall in later arcs; do not reset the old order automatically.
+## Thousand Lantern Network
 
-## S26–35 — War Beyond the Register
-This saga is **written canon**, not planning canon.
+By S55:
+- more than 12,000 Lantern Nodes;
+- four-continent coverage;
+- qi relay + World Meridian resonance + Nacre signaling + Sahraim routes + physical courier redundancy;
+- local isolation seals;
+- no single node has the full network map;
+- no single permanent information owner;
+- messages carry source reliability, verification level, timestamp, independent confirmations, and likely strategic effect.
 
-Major locks:
-- Other continents have distinct martial systems, not reskinned Heavenly Registers.
-- Arclune’s No.1 guild is the **Iron Concord Guild** with Banner Legions, fleets, engineers, healers, intelligence, and linked cultivation warfare.
-- **Cyran Vol — The Concord Marshal** is individually terrifying but the real strategic threat is Concordance and the army linked around him.
-- Corven Ash’s apparent betrayal is Lucy’s counterintelligence operation.
-- The real Pavilion betrayal comes from the Pavilion Master’s old contingency pact with Iron Concord.
-- Azure Dragon Hall falls; Jade Moon dissolves.
-- Orun dies in S29; Toren dies in S33.
-- Ryn/Lucy found Open Gate because emergency coalitions cannot remain dependent on famous elites arriving in time.
-- **No Heaven Above Me ✧ Supreme** is revealed once in S34 and remains the only Supreme reveal.
-- S35 ends the Guild War through withdrawal terms, institutional consequences, and Cyran’s defeat without pretending one duel solved the entire war.
+**RED GATE** is the emergency unknown-threat protocol.
 
-`ROADMAP_SEASONS_26_35.md` is now a **historical planning document** and must not override written prose.
+Institutional effect: Open Gate learns across branches rapidly. The first team may be surprised; later teams receive the observation and can prepare counters.
 
-## S36–45 — War of Empty Thrones / World Meridian
-This saga is **written canon**.
+## Ryn formal arsenal — S55
 
-### S36 — Open Gate institution-building
-- Roughly forty thousand applicants force Open Gate to formalize governance.
-- Dual authority, Four Halls, disciple progression, and responsibility-based promotion become on-page canon.
+Allowed ranks remain:
+- ◆ Named Skill
+- ✦ Transcended
+- ✧ Supreme
+- ★ Ultimate
 
-### S37–39 — Varkesh and Seven Thrones
-- Northern continent **Varkesh** uses Twelve War Hosts and Seven Thrones rather than Heavenly Register ranking.
-- Tala Vorn introduces the civilization before the Thrones are dumped as names.
-- Seven Thrones include Arvek Draal, Seyra Khann, Orren Vak, Maelis Dorn, Darr Vesk, Iskra Vale, and **Kaor Ren — The Empty Throne**.
-- Lucy discovers decades of manipulated Throne succession around ancient **World Meridian** junctions.
-- Empty-Hand Measure evolves into **Measure Before Contact ✦ Transcended**.
+### Transcended / Named
+1. Returning Breath of the Mountain ✦
+   - Hundred Living Breaths.
+   - Myriad Spring Reforging.
+2. Empty-Hand Measure ✦
+   - Measure Before Contact.
+3. Step Between Footfalls ◆
+   - shared timing-interval application.
+4. Still Sky ✦
+   - Living Exemption.
+5. Horizon Without Distance ✦
+   - Shared Passage.
+6. Ten Thousand Roads Return ✦
+   - One Road Home.
+7. Unbroken Vessel ✦
+   - Inner World.
+8. Spring of the Open Gate ✦
+9. Falling Blossom Breaks the Horizon ✦
+   - Ten Thousand Blossoms, One Funeral.
 
-### S40–41 — Summit / Restoration Mandate / internal trust
-- Black Mountain hosts a major intercontinental summit.
-- Veyra #2 survives an assassination attempt tied to the **Restoration Mandate**, a displaced-Orthodox movement trying to restore old centralized authority.
-- Mira Veyl genuinely withholds information, forcing Open Gate to prove its philosophy through an actual tribunal rather than arbitrary founder judgment.
-- Nine Warden Seats become formal.
+### Supreme
+10. No Heaven Above Me ✧ — revealed S34.
+11. The World Beneath Falling Blossoms ✧ — **Supreme Domain**, revealed S54.
+12. One Blossom Buries Heaven ✧ — **Supreme offense**, revealed S55.
+13. Unwritten Law ✧ — **SEALED**.
 
-### S42–43 — Maren / vacancy / succession
-- Maren dies as Rank #4 after a long defensive sacrifice.
-- Returning Breath evolves into **Hundred Living Breaths ✦ Transcended** but cannot resurrect her.
-- #4 remains visibly vacant before succession.
-- Ryn’s grief creates an overprotection conflict with Lucy.
-- Horizon Without Distance reveals and develops **Shared Passage**.
-- Sael becomes #4; Sorin eventually enters at #20.
+### Ultimate
+14. The Last Quiet Beneath Heaven ★ — **HARD LOCKED / UNRELEASED**.
 
-### S44 — Open Gate vs Thrones
-- Open Gate operates independently under earned Wardens.
-- Taewon defeats Seyra Khann and remains #1.
-- **Han Rook dies wanting to live**, not as payment for survivor’s guilt. Open Gate’s memorial explicitly rejects glorifying death as proof of worth.
+Do not use or explain the Ultimate until explicit user approval.
 
-### S45 — World Meridian War
-- Kaor’s grievance: unequal ambient-qi geography creates inherited opportunity inequality.
-- His solution—forced worldwide qi equalization—would catastrophically destroy existing meridian/infrastructure systems.
-- Ryn does **not** reveal another Supreme or the Ultimate.
-- He wins through evolved Transcended mastery and **Confluence**: Still Sky/Living Exemption, Horizon/Shared Passage, Ten Thousand Roads/One Road Home, Unbroken Vessel/Inner World.
-- Lucy creates the **Meridian Compact**: no nation, sect, guild, Register, or Open Gate owns the World Meridian.
-- Open Gate begins international branch growth through Gatekeepers rather than conquest.
+## Spring of the Open Gate — absolute rules
 
-## Ranked-character introduction standard
-Avoid `Name → rank → element → feat → next name`.
+- Permanent pale sakura aura once mature.
+- **Ryn is immune to poison of all kinds.** Natural, cultivated, blood, meridian, composite, ancient, unfamiliar: poison cannot remain poison inside him.
+- Ryn’s wounds, meridian damage, and qi disruption recover essentially instantly.
+- Allies within the aura continuously recover micro-damage, correct qi deviation, refine circulation, and gradually become stronger through their own cultivation.
+- Successful adaptations by students feed insight back into Ryn’s Inner World, continuously refining and strengthening him.
+- Ryn does not drain or steal student power.
+- The more Open Gate develops, the more sophisticated Ryn’s Inner World becomes.
 
-Before a major battle depends on a named fighter, establish at least one—preferably several—of:
-- civilian role/responsibility;
-- personality/humor;
-- moral belief;
-- relationship;
-- flaw or failed matchup;
-- noncombat habit;
-- reason their style developed;
-- consequence they care about beyond winning.
+## Ryn healing — absolute rules
 
-S16–18 second-edition chapters and S36–39 Varkesh introductions are reference standards.
+### Myriad Spring Reforging
+May reconstruct:
+- ancient meridian damage;
+- destroyed cultivation pathways;
+- shattered foundations when living structure remains;
+- chronic scar tissue;
+- poison scarring;
+- accumulated body-cultivation damage.
+
+It may rebuild a foundation **better than the damaged original** by removing inefficiency, as with Teren Ashval.
+
+### Open Gate Sanctuary
+Anyone Ryn actively heals automatically receives a sakura barrier.
+
+**The barrier cannot be penetrated by anything while the healing state remains active.**
+
+This includes physical attacks, qi, poison, sword qi, pressure, heat, lightning, resonance, formations, spatial attacks, and comparable hostile effects.
+
+The barrier protects healing; it does not resurrect the dead.
+
+## Ryn offensive evolution
+
+### Falling Blossom Breaks the Horizon ✦
+Ryn compresses destructive consequence into a selected trajectory while excluding unrelated surroundings.
+
+### Ten Thousand Blossoms, One Funeral ✦
+An evolved movement of Falling Blossom. Visible sakura petals become possible attack routes; Ryn chooses the real route(s) and target(s) at the final instant.
+
+### The World Beneath Falling Blossoms ✧
+Supreme Domain. Ryn’s mature arts operate as one coherent ecosystem. Allies remain themselves but function with dramatically cleaner recovery, positioning, and protection.
+
+### One Blossom Buries Heaven ✧
+Supreme offense. The target can be a defined martial structure rather than a location. In S55 Ryn targets **Hundred Graves Scripture**, destroying the Scripture without destroying Kaiven or the World Meridian.
+
+## Kaiven Rhoss / Rank Hunter continuity
+
+- Former secret Pavilion **Examiner Zero**.
+- Legitimate early grievance: some rank recommendations were suppressed or politically distorted.
+- Hundred Graves Scripture stores crisis circulation, structural responses, timing, priorities, and decision patterns; it does not literally steal qi.
+- Kaiven increasingly accumulates incompatible internal answers instead of synthesizing them like Ryn’s Inner World.
+- He defeats multiple upper ranked fighters and kills Taewon.
+- After Taewon, he turns from completing the Register to testing Open Gate as the new martial curriculum.
+- In S55 he tries to externalize Hundred Graves into the World Meridian.
+- Ryn destroys only the Scripture with One Blossom Buries Heaven.
+- Kaiven survives and faces public tribunals; survival is not forgiveness.
+
+## Reader requirements
+
+- Static root `index.html` must show the current season/chapter count.
+- S26 onward derived metadata must extend through the latest manuscript season.
+- Full names and common aliases receive historical rank badges.
+- Deceased badge suffix: `†`.
+- Retired badge must be visually distinct from death.
+- Ryn technique names receive rank symbols automatically.
+- Ryn/Lucy dialogue colors remain readable on black.
+- Bookmark keys remain exactly:
+  - `dhBookmarksV2`
+  - `dhLastReadV2`
 
 ## Source-of-truth files
+
 - Manuscript: `src/content/season-XX/`
-- S1–25 metadata: `src/features/chapters/`
 - Current Top 20: `src/features/rankings/top20.ts`
-- Historical succession: `src/features/rankings/history.ts`
-- Character canon: `src/features/characters/data.ts`
-- Ryn formal skills: `src/features/techniques/data.ts`
-- Technique tier schema: `src/features/techniques/types.ts`
-- Timeline: `src/features/timeline/data.ts`
-- Lore: `src/features/lore/data.ts`
-- Villains: `src/features/villains/data.ts`
+- Historical ranks: `src/features/rankings/history.ts`
+- Characters: `src/features/characters/data.ts`
+- Ryn skills: `src/features/techniques/data.ts`
 - Factions: `src/features/factions/data.ts`
-- Static GitHub Pages reader: `index.html`
-- Historical S26–35 planning document: `ROADMAP_SEASONS_26_35.md`
+- Villains: `src/features/villains/data.ts`
+- Lore: `src/features/lore/data.ts`
+- Timeline: `src/features/timeline/data.ts`
+- Static reader: `index.html`
 
-## Audit requirement for future arcs
-Any future major arc must update in the same change set, when relevant:
-1. prose manuscripts;
-2. live reader season/chapter loading;
-3. current Top 20;
-4. historical rank history;
-5. Ryn technique reveal/evolution state;
-6. Characters;
-7. Factions;
-8. Lore/Villains;
-9. Timeline;
-10. README and this audit.
-
-Do not declare an arc fully integrated until the live Pages reader has been checked after deployment.
+Future story work should update all affected layers together.
