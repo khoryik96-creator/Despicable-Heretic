@@ -117,7 +117,7 @@ export const techniques: Technique[] = [
     name: 'The World Beneath Falling Blossoms',
     user: 'Ryn',
     tier: 'Supreme',
-    category: 'Control',
+    category: 'Domain',
     reveal: 'Revealed',
     revealedIn: 'Season 54',
     description: 'Ryn’s Supreme Domain. The battlefield becomes a coherent sakura ecosystem in which every petal extends his perception and his Transcended arts operate as one integrated system: distance, healing, protection, control, counter-routing, hostile-technique analysis, ally strengthening, and Inner World stability all reinforce one another. Chosen allies become dramatically harder to injure and more efficient without losing their own identities.'
