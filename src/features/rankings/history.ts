@@ -51,13 +51,20 @@ function addStatus(name: string, rank: number, status: 'Deceased' | 'Retired', f
   out.push({ name, aliases: aliases[name] || [name], rank, status, fromSeason, fromChapter });
 }
 
-// S1 -> S20C2: original public roster. Tessan appears at #21 in S18.
-addRoster(['Seo Taewon','Veyra Nox','Dae Kiryun','Maren Sol','Kassian Ro','Sael Vardon','Orun Bale','Lysandra Keir','Toren Vahl','Nyra Sen','Boran Dusk','Elian Mor','Veska Ren','Kaio Draven','Seline Arq','Corven Ash','Tavia Moss','Rook Arden','Joren Quill','Luma Vey'], 1, 1, 20, 2);
+// S1 -> S20C2: original public roster, except Kassian's active era ends with his death in S19C10.
+// Separating Kassian prevents an active/deceased overlap in S20C1-C2.
+addPairs([
+  [1,'Seo Taewon'],[2,'Veyra Nox'],[3,'Dae Kiryun'],[4,'Maren Sol'],
+  [6,'Sael Vardon'],[7,'Orun Bale'],[8,'Lysandra Keir'],[9,'Toren Vahl'],[10,'Nyra Sen'],
+  [11,'Boran Dusk'],[12,'Elian Mor'],[13,'Veska Ren'],[14,'Kaio Draven'],[15,'Seline Arq'],
+  [16,'Corven Ash'],[17,'Tavia Moss'],[18,'Rook Arden'],[19,'Joren Quill'],[20,'Luma Vey']
+], 1, 1, 20, 2);
+out.push({ name: 'Kassian Ro', aliases: aliases['Kassian Ro'], rank: 5, fromSeason: 1, fromChapter: 1, toSeason: 19, toChapter: 10 });
+addStatus('Kassian Ro', 5, 'Deceased', 20, 1);
 out.push({ name: 'Tessan Ri', aliases: aliases['Tessan Ri'], rank: 21, fromSeason: 18, fromChapter: 10, toSeason: 20, toChapter: 2 });
 
 // S20C3 -> S29C9: Kassian succession.
 addRoster(['Seo Taewon','Veyra Nox','Dae Kiryun','Maren Sol','Sael Vardon','Orun Bale','Lysandra Keir','Toren Vahl','Nyra Sen','Boran Dusk','Elian Mor','Veska Ren','Kaio Draven','Seline Arq','Corven Ash','Tavia Moss','Rook Arden','Joren Quill','Luma Vey','Tessan Ri'], 20, 3, 29, 9);
-addStatus('Kassian Ro', 5, 'Deceased', 20, 1);
 
 // S29C10 records Orun dead; other numbers do not shift until S30.
 addPairs([[1,'Seo Taewon'],[2,'Veyra Nox'],[3,'Dae Kiryun'],[4,'Maren Sol'],[5,'Sael Vardon'],[7,'Lysandra Keir'],[8,'Toren Vahl'],[9,'Nyra Sen'],[10,'Boran Dusk'],[11,'Elian Mor'],[12,'Veska Ren'],[13,'Kaio Draven'],[14,'Seline Arq'],[15,'Corven Ash'],[16,'Tavia Moss'],[17,'Rook Arden'],[18,'Joren Quill'],[19,'Luma Vey'],[20,'Tessan Ri']], 29, 10, 29, 10);
@@ -106,7 +113,7 @@ out.push({ name: 'Asha Mire', aliases: aliases['Asha Mire'], rank: 21, fromSeaso
 export const rankHistory = out;
 
 export const successionNotes = [
-  'S19: Kassian Ro dies as #5; S20C3 begins the Sael/Tessan succession.',
+  'S19C10: Kassian Ro dies as #5; he is posthumous #5† from S20C1. S20C3 begins the Sael/Tessan succession.',
   'S29C10: Orun Bale dies; the post-Orun roster begins in S30.',
   'S33C10: Toren Vahl dies; Iseul Venn enters the Top 20.',
   'S42C10: Maren Sol is dead and #4 remains deliberately vacant until S43C5.',
