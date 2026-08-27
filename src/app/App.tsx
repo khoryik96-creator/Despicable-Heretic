@@ -96,7 +96,7 @@ export function App() {
           <span className="status-dot" />
           <div>
             <strong>Canon workspace</strong>
-            <p>Typed · modular · searchable</p>
+            <p>55 seasons · synchronized</p>
           </div>
         </div>
       </aside>
@@ -118,7 +118,7 @@ export function App() {
             />
           </div>
           <div className="topbar__meta">
-            <span>Wiki v0.1</span>
+            <span>55 seasons · 550 chapters</span>
           </div>
         </header>
 
