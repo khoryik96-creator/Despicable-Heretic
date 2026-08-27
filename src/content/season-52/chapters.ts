@@ -545,7 +545,7 @@ The White Falcon Sovereign responded with his final pressure strike at point-bla
 
 Both men stopped.` ,
 
-10: String.raw`Ryn returned twenty-one seconds later.
+10: String.raw`Ryn returned twenty-three seconds later.
 
 Too late.
 
