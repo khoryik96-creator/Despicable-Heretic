@@ -2,5 +2,5 @@ export const siteConfig = {
   title: 'The Despicable Heretic',
   eyebrow: 'Light Novel Wiki',
   description:
-    'Canon reference for Ryn, Princess Lucy, the Heavenly Register, the Five Great Orthodox Sects, and the martial world.',
+    'Canon reference through Season 55 for Ryn, Princess Lucy, Open Gate, the Heavenly Register, the Rank Hunter Saga, Ryn’s evolved sakura arts, and the wider martial world.',
 } as const;
