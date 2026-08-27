@@ -1,6 +1,6 @@
 import type { WikiSectionId } from '../../shared/types';
 import { StatCard } from '../../components/StatCard';
-import { chapters } from '../chapters/data';
+import { allChapters, publishedChapterCount, publishedSeasonCount } from '../chapters/allData';
 import { characters } from '../characters/data';
 import { villains } from '../villains/data';
 import { factions } from '../factions/data';
@@ -10,23 +10,30 @@ import { loreArticles } from '../lore/data';
 interface OverviewPageProps { onNavigate: (section: WikiSectionId) => void; }
 
 const quickLinks: Array<{ section: WikiSectionId; title: string; description: string; symbol: string; }> = [
-  { section: 'chapters', title: 'Chapter archive', description: 'Reading order, summaries, POV, and status.', symbol: '01' },
-  { section: 'characters', title: 'Character index', description: 'Heroes, legends, ranks, aliases, and affiliations.', symbol: '02' },
-  { section: 'villains', title: 'Threat archive', description: 'Antagonists, motives, organizations, and danger levels.', symbol: '03' },
-  { section: 'lore', title: 'World bible', description: 'Power rules, terminology, motifs, and background.', symbol: '04' },
+  { section: 'chapters', title: 'Chapter archive', description: 'All 55 published seasons, summaries, POV, and reading order.', symbol: '01' },
+  { section: 'characters', title: 'Character index', description: 'Ryn, Lucy #5, Open Gate, ranked monsters, former legends, and recurring cast.', symbol: '02' },
+  { section: 'techniques', title: 'Ryn’s arts', description: 'Evolved Transcended skills, Spring, three revealed Supremes, and the sealed Ultimate.', symbol: '03' },
+  { section: 'lore', title: 'World bible', description: 'Register succession, Open Gate, World Meridian, Thousand Lanterns, and setting rules.', symbol: '04' },
 ];
 
 export function OverviewPage({ onNavigate }: OverviewPageProps) {
   return (
     <section>
-      <div className="hero"><div><p className="eyebrow">Wiki dashboard</p><h2>A villain to the world.<br />A hermit by choice.</h2><p>Ryn wants a quiet mountain life. Princess Lucy keeps accidentally dragging the Despicable Heretic back into a martial world obsessed with rankings, rules, and his supposed villainy.</p></div><div className="hero__seal" aria-hidden="true"><span>雪</span></div></div>
-      <div className="stats-grid">
-        <StatCard label="Chapters" value={chapters.length} hint="Five seasons planned" />
-        <StatCard label="Characters" value={characters.length} hint="Core + major cast" />
-        <StatCard label="Villains" value={villains.length} hint="Tracked major threats" />
-        <StatCard label="World entries" value={factions.length + techniques.length + loreArticles.length} hint="Factions, arts, and lore" />
+      <div className="hero">
+        <div>
+          <p className="eyebrow">Canon workspace · Season 55</p>
+          <h2>The mountain<br />opened its gate.</h2>
+          <p>Ryn remains UNRANKABLE beneath a permanent sakura aura. Princess Lucy is now Heavenly Register #5, and the school neither of them intended to build has become an intercontinental martial superpower designed specifically not to become a throne.</p>
+        </div>
+        <div className="hero__seal" aria-hidden="true"><span>花</span></div>
       </div>
-      <div className="section-heading"><div><p className="eyebrow">Explore</p><h3>Wiki sections</h3></div><p>Each section is its own module and can grow independently.</p></div>
+      <div className="stats-grid">
+        <StatCard label="Chapters" value={publishedChapterCount} hint={`${publishedSeasonCount} published seasons`} />
+        <StatCard label="Characters" value={characters.length} hint="Core cast, ranked monsters, legends" />
+        <StatCard label="Ryn’s formal arts" value={techniques.length} hint="3 revealed Supremes · Ultimate sealed" />
+        <StatCard label="World entries" value={factions.length + villains.length + loreArticles.length} hint="Factions, threats, and lore" />
+      </div>
+      <div className="section-heading"><div><p className="eyebrow">Explore</p><h3>Wiki sections</h3></div><p>{allChapters.length} published chapter records share the same canon data used across the modular wiki.</p></div>
       <div className="quick-grid">{quickLinks.map((link) => <button className="quick-card" key={link.section} onClick={() => onNavigate(link.section)} type="button"><span className="quick-card__symbol">{link.symbol}</span><div><h3>{link.title}</h3><p>{link.description}</p></div><span className="quick-card__arrow" aria-hidden="true">↗</span></button>)}</div>
     </section>
   );
