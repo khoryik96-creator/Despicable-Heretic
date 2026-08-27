@@ -373,6 +373,8 @@ Lucy #5.
 
 Meira #8.
 
+Iseul inside the lower Top 20.
+
 Sorin inside the lower Top 20.
 
 Kesh inside the lower Top 20.
@@ -383,7 +385,7 @@ Oris Thane former #9 likewise remained unranked.
 
 The Register analyst summarized it badly:
 
-“Open Gate now possesses four current Top-20 fighters and at least two unranked former Top-Ten-equivalent masters.”
+“Open Gate now possesses five current Top-20 fighters and at least two unranked former Top-Ten-equivalent masters.”
 
 Ryn read the report.
 
