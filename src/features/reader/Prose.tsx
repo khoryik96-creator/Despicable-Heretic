@@ -8,6 +8,7 @@ interface ProseProps {
 
 type SkillTier = 'Named' | 'Transcended' | 'Supreme' | 'Ultimate';
 type TierResolver = SkillTier | ((position: number) => SkillTier);
+type SkillMention = [name: string, tier: TierResolver, sealed?: boolean];
 
 const tierMeta: Record<SkillTier, { symbol: string; label: string; className: string }> = {
   Named: { symbol: '◆', label: 'Named', className: 'named' },
@@ -16,7 +17,7 @@ const tierMeta: Record<SkillTier, { symbol: string; label: string; className: st
   Ultimate: { symbol: '★', label: 'Ultimate', className: 'ultimate' },
 };
 
-const skillMentions: [string, TierResolver, boolean?][] = [
+const rawSkillMentions: SkillMention[] = [
   ['Returning Breath of the Mountain — Myriad Spring Reforging', 'Transcended'],
   ['Returning Breath of the Mountain — Hundred Living Breaths', 'Transcended'],
   ['Falling Blossom Breaks the Horizon — Ten Thousand Blossoms, One Funeral', 'Transcended'],
@@ -26,11 +27,11 @@ const skillMentions: [string, TierResolver, boolean?][] = [
   ['Unbroken Vessel — Inner World', 'Transcended'],
   ['Still Sky — Living Exemption', 'Transcended'],
   ['Ten Thousand Blossoms, One Funeral', 'Transcended'],
-  ['Returning Breath of the Mountain', (position) => position >= 4204 ? 'Transcended' : 'Named'],
+  ['Returning Breath of the Mountain', (point: number) => point >= 4204 ? 'Transcended' : 'Named'],
   ['Hundred Living Breaths', 'Transcended'],
   ['Myriad Spring Reforging', 'Transcended'],
   ['Measure Before Contact', 'Transcended'],
-  ['Empty-Hand Measure', (position) => position >= 3903 ? 'Transcended' : 'Named'],
+  ['Empty-Hand Measure', (point: number) => point >= 3903 ? 'Transcended' : 'Named'],
   ['Step Between Footfalls', 'Named'],
   ['Living Exemption', 'Transcended'],
   ['Still Sky', 'Transcended'],
@@ -47,7 +48,9 @@ const skillMentions: [string, TierResolver, boolean?][] = [
   ['One Blossom Buries Heaven', 'Supreme'],
   ['Unwritten Law', 'Supreme', true],
   ['The Last Quiet Beneath Heaven', 'Ultimate', true],
-].sort((a, b) => b[0].length - a[0].length);
+];
+
+const skillMentions = rawSkillMentions.sort((a, b) => b[0].length - a[0].length);
 
 const aliasRows = (() => {
   const seen = new Set<string>();
