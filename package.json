@@ -4,7 +4,10 @@
   "version": "0.1.0",
   "type": "module",
   "scripts": {
+    "generate:manifest": "node scripts/generate-manifest.mjs",
+    "predev": "npm run generate:manifest",
     "dev": "vite",
+    "prebuild": "npm run generate:manifest",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
