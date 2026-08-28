@@ -9,6 +9,8 @@ export interface NavigationItem {
 export const navigationItems: NavigationItem[] = [
   { id: 'overview', label: 'Overview', shortLabel: 'Home' },
   { id: 'chapters', label: 'Chapters', shortLabel: 'Chapters' },
+  { id: 'bookmarks', label: 'Bookmarks', shortLabel: 'Saved' },
+  { id: 'rankings', label: 'Top 20', shortLabel: 'Ranks' },
   { id: 'characters', label: 'Characters', shortLabel: 'Cast' },
   { id: 'villains', label: 'Villains', shortLabel: 'Villains' },
   { id: 'factions', label: 'Factions', shortLabel: 'Factions' },

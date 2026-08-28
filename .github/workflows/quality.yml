@@ -12,7 +12,7 @@ permissions:
 jobs:
   validate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -35,3 +35,9 @@ jobs:
 
       - name: Type-check and build
         run: npm run build
+
+      - name: Install Chromium for reader smoke tests
+        run: npx playwright install --with-deps chromium
+
+      - name: Browser-test React reader parity
+        run: npm run test:reader
