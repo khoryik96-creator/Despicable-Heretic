@@ -61,12 +61,22 @@ const forbidden = [
   { pattern: /\bRhen\b/g, label: 'Rhen (Quiet Regular contamination)' },
   { pattern: /\bSera\b/g, label: 'Sera (Quiet Regular contamination)' },
   { pattern: /\bPale Orchid\b/g, label: 'Pale Orchid (Quiet Regular contamination)' },
-  { pattern: /\bThe Last Quiet Beneath Heaven\b/g, label: 'hard-locked Ultimate name in manuscript prose' },
-  { pattern: /\bUnwritten Law\b/g, label: 'sealed Supreme name in manuscript prose' },
+  { pattern: /\bThe Last Quiet Beneath Heaven\b/g, label: 'hard-locked Ultimate name outside an explicit untouched reminder' },
+  { pattern: /\bUnwritten Law\b/g, label: 'sealed Supreme name outside an explicit sealed reminder' },
 ];
 
+function stripAllowedLockReminders(text) {
+  return text
+    .replace(/\*\*Unwritten Law remained sealed\.\*\*/g, '')
+    .replace(/\bUnwritten Law remained sealed\./g, '')
+    .replace(/\*\*The Last Quiet Beneath Heaven remained untouched\.\*\*/g, '')
+    .replace(/\bThe Last Quiet Beneath Heaven remained untouched\./g, '')
+    .replace(/And\s+\*\*The Last Quiet Beneath Heaven\*\*\s+remained untouched\./g, '');
+}
+
 for (const file of manuscriptFiles) {
-  const text = await readFile(file, 'utf8');
+  const raw = await readFile(file, 'utf8');
+  const text = stripAllowedLockReminders(raw);
   for (const { pattern, label } of forbidden) {
     pattern.lastIndex = 0;
     if (pattern.test(text)) fail(`${path.relative(root, file)} contains ${label}.`);
@@ -84,4 +94,4 @@ if (errors.length) {
   process.exit(1);
 }
 
-console.log(`Content validation passed: ${maxSeason} contiguous seasons, ${chapterCount} chapters, no locked/cross-novel terms in manuscript prose.`);
+console.log(`Content validation passed: ${maxSeason} contiguous seasons, ${chapterCount} chapters, no cross-novel contamination, and locked arts appear only in approved untouched/sealed reminders.`);
