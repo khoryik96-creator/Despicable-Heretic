@@ -11,6 +11,7 @@
     "dev": "vite",
     "prebuild": "npm run generate",
     "build": "tsc -b && vite build",
+    "build:pages": "npm run build && node scripts/prepare-pages-dist.mjs",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "validate:content": "node scripts/validate-content.mjs",
@@ -18,7 +19,7 @@
     "validate:reader": "node --check assets/reader.js",
     "validate": "npm run validate:content && npm run validate:canon && npm run validate:reader",
     "test:reader": "playwright test",
-    "check": "npm run validate && npm run lint && npm run build",
+    "check": "npm run validate && npm run lint && npm run build:pages",
     "preview": "vite preview"
   },
   "dependencies": {
