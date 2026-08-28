@@ -94,38 +94,38 @@ export function App() {
     navigateHash(`chapter/${id}`);
   }
 
-  const page = useMemo(() => {
-    if (chapterId) return <ReaderPage chapterId={chapterId} onOpenChapter={openChapter} onBackToArchive={() => openSection('chapters')} />;
+  let page;
+  if (chapterId) {
+    page = <ReaderPage chapterId={chapterId} onOpenChapter={openChapter} onBackToArchive={() => openSection('chapters')} />;
+  } else {
     switch (activeSection) {
-      case 'chapters': return <ChaptersPage onOpenChapter={openChapter} />;
-      case 'bookmarks': return <BookmarksPage onOpenChapter={openChapter} />;
-      case 'rankings': return <RankingsPage />;
-      case 'characters': return <CharactersPage />;
-      case 'villains': return <VillainsPage />;
-      case 'factions': return <FactionsPage />;
-      case 'techniques': return <TechniquesPage />;
-      case 'timeline': return <TimelinePage />;
-      case 'lore': return <LorePage />;
+      case 'chapters': page = <ChaptersPage onOpenChapter={openChapter} />; break;
+      case 'bookmarks': page = <BookmarksPage onOpenChapter={openChapter} />; break;
+      case 'rankings': page = <RankingsPage />; break;
+      case 'characters': page = <CharactersPage />; break;
+      case 'villains': page = <VillainsPage />; break;
+      case 'factions': page = <FactionsPage />; break;
+      case 'techniques': page = <TechniquesPage />; break;
+      case 'timeline': page = <TimelinePage />; break;
+      case 'lore': page = <LorePage />; break;
       case 'overview':
-      default: return <OverviewPage onNavigate={openSection} onOpenChapter={openChapter} />;
+      default: page = <OverviewPage onNavigate={openSection} onOpenChapter={openChapter} />; break;
     }
-  // Hash navigation functions are stable for a render and route changes already update these dependencies.
-  // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [activeSection, chapterId]);
+  }
 
   const navSection = chapterId ? 'chapters' : activeSection;
 
   return (
     <div className="app-shell">
       <aside className="sidebar">
-        <button className="brand brand--button" onClick={() => openSection('overview')} type="button">
+        <button className="brand brand--button" onClick={() => openSection('overview')} type="button" aria-label="Overview">
           <div className="brand__mark">DH</div>
           <div><p>{siteConfig.eyebrow}</p><h1>{siteConfig.title}</h1></div>
         </button>
         <nav className="primary-nav" aria-label="Wiki sections">
           {navigationItems.map((item, index) => (
-            <button className={navSection === item.id ? 'is-active' : undefined} key={item.id} onClick={() => openSection(item.id)} type="button">
-              <span>{String(index + 1).padStart(2, '0')}</span><strong>{item.label}</strong>
+            <button aria-label={item.label} className={navSection === item.id ? 'is-active' : undefined} key={item.id} onClick={() => openSection(item.id)} type="button">
+              <span aria-hidden="true">{String(index + 1).padStart(2, '0')}</span><strong>{item.label}</strong>
             </button>
           ))}
         </nav>
@@ -134,7 +134,7 @@ export function App() {
 
       <div className="main-column">
         <header className="topbar">
-          <button className="mobile-brand mobile-brand--button" onClick={() => openSection('overview')} type="button">
+          <button className="mobile-brand mobile-brand--button" onClick={() => openSection('overview')} type="button" aria-label="Overview">
             <div className="brand__mark">DH</div><strong>{siteConfig.title}</strong>
           </button>
           <div ref={searchInputHost} className="topbar__search">
@@ -152,9 +152,9 @@ export function App() {
           <div className="topbar__meta"><span>{publishedSeasonCount} seasons · {publishedChapterCount} chapters</span></div>
         </header>
 
-        <nav className="mobile-tabs" aria-label="Wiki sections">
+        <nav className="mobile-tabs" aria-label="Mobile wiki sections">
           {navigationItems.map((item) => (
-            <button className={navSection === item.id ? 'is-active' : undefined} key={item.id} onClick={() => openSection(item.id)} type="button">{item.shortLabel}</button>
+            <button aria-label={item.label} className={navSection === item.id ? 'is-active' : undefined} key={item.id} onClick={() => openSection(item.id)} type="button">{item.shortLabel}</button>
           ))}
         </nav>
 
