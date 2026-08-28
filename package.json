@@ -5,9 +5,11 @@
   "type": "module",
   "scripts": {
     "generate:manifest": "node scripts/generate-manifest.mjs",
-    "predev": "npm run generate:manifest",
+    "generate:reader-data": "node scripts/generate-reader-data.mjs",
+    "generate": "npm run generate:manifest && npm run generate:reader-data",
+    "predev": "npm run generate",
     "dev": "vite",
-    "prebuild": "npm run generate:manifest",
+    "prebuild": "npm run generate",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
