@@ -6,6 +6,10 @@ on:
   pull_request:
     branches: [main]
 
+concurrency:
+  group: quality-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 permissions:
   contents: read
 
@@ -33,11 +37,11 @@ jobs:
       - name: Lint
         run: npm run lint
 
-      - name: Type-check and build
-        run: npm run build
+      - name: Type-check and build exact Pages artifact
+        run: npm run build:pages
 
       - name: Install Chromium for reader smoke tests
         run: npx playwright install --with-deps chromium
 
-      - name: Browser-test React reader parity
+      - name: Browser-test production root and rollback reader
         run: npm run test:reader
