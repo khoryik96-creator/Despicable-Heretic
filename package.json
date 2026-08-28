@@ -8,6 +8,11 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
+    "validate:content": "node scripts/validate-content.mjs",
+    "validate:canon": "node scripts/validate-canon.mjs",
+    "validate:reader": "node --check assets/reader.js",
+    "validate": "npm run validate:content && npm run validate:canon && npm run validate:reader",
+    "check": "npm run validate && npm run lint && npm run build",
     "preview": "vite preview"
   },
   "dependencies": {
