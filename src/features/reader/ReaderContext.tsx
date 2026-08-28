@@ -1,4 +1,4 @@
-import { createContext, useContext, useMemo, useState, type ReactNode } from 'react';
+import { createContext, useCallback, useContext, useMemo, useState, type ReactNode } from 'react';
 import { readBookmarks, readLastRead, writeBookmarks, writeLastRead } from '../../shared/storage/readerStorage';
 
 interface ReaderContextValue {
@@ -16,29 +16,34 @@ export function ReaderProvider({ children }: { children: ReactNode }) {
   const [bookmarks, setBookmarks] = useState<Set<string>>(() => new Set(readBookmarks()));
   const [lastRead, setLastRead] = useState<string | null>(() => readLastRead());
 
+  const isBookmarked = useCallback((id: string) => bookmarks.has(id), [bookmarks]);
+  const toggleBookmark = useCallback((id: string) => {
+    setBookmarks((current) => {
+      const next = new Set(current);
+      if (next.has(id)) next.delete(id);
+      else next.add(id);
+      writeBookmarks(next);
+      return next;
+    });
+  }, []);
+  const clearBookmarks = useCallback(() => {
+    const next = new Set<string>();
+    setBookmarks(next);
+    writeBookmarks(next);
+  }, []);
+  const markLastRead = useCallback((id: string) => {
+    setLastRead((current) => current === id ? current : id);
+    writeLastRead(id);
+  }, []);
+
   const value = useMemo<ReaderContextValue>(() => ({
     bookmarks,
     lastRead,
-    isBookmarked: (id) => bookmarks.has(id),
-    toggleBookmark: (id) => {
-      setBookmarks((current) => {
-        const next = new Set(current);
-        if (next.has(id)) next.delete(id);
-        else next.add(id);
-        writeBookmarks(next);
-        return next;
-      });
-    },
-    clearBookmarks: () => {
-      const next = new Set<string>();
-      setBookmarks(next);
-      writeBookmarks(next);
-    },
-    markLastRead: (id) => {
-      setLastRead(id);
-      writeLastRead(id);
-    },
-  }), [bookmarks, lastRead]);
+    isBookmarked,
+    toggleBookmark,
+    clearBookmarks,
+    markLastRead,
+  }), [bookmarks, clearBookmarks, isBookmarked, lastRead, markLastRead, toggleBookmark]);
 
   return <ReaderContext.Provider value={value}>{children}</ReaderContext.Provider>;
 }
