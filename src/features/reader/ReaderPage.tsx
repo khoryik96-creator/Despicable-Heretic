@@ -14,6 +14,7 @@ export function ReaderPage({ chapterId, onOpenChapter, onBackToArchive }: Reader
   const { isBookmarked, toggleBookmark, markLastRead } = useReaderState();
   const [body, setBody] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
+  const [retryNonce, setRetryNonce] = useState(0);
   const [fontScale, setFontScale] = useState(1);
   const [relaxedSpacing, setRelaxedSpacing] = useState(false);
 
@@ -42,7 +43,7 @@ export function ReaderPage({ chapterId, onOpenChapter, onBackToArchive }: Reader
       });
 
     return () => { active = false; };
-  }, [chapter, markLastRead, next, previous]);
+  }, [chapter, markLastRead, next, previous, retryNonce]);
 
   if (!chapter) {
     return (
@@ -94,7 +95,7 @@ export function ReaderPage({ chapterId, onOpenChapter, onBackToArchive }: Reader
           <div className="reader-error">
             <strong>Chapter failed to load.</strong>
             <p>{error}</p>
-            <button onClick={() => onOpenChapter(chapter.id)} type="button">Try again</button>
+            <button onClick={() => setRetryNonce((value) => value + 1)} type="button">Try again</button>
           </div>
         ) : null}
         {body ? <Prose body={body} season={chapter.season} chapter={chapter.number} /> : null}
